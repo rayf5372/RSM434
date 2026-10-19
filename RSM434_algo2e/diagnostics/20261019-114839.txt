@@ -1,0 +1,56 @@
+ALGO2e v2   period 1   tick 0/300   STOPPED
+trading limits: a fine, not a hard reject
+trader 1010264928    NLV 65,939.59    fines 4,483.00
+
+            pos     vwap     last   realized  unrealized     volume   fee live/file     rebate live/file
+CNR           0     0.00   167.78    4597.56        0.00    7597281   +0.0027/+0.0027    +0.0050/+0.0023   DIFFERENT
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+RY            0     0.00    93.33   52410.62        0.00   63253393   -0.0014/-0.0014    -0.0034/-0.0020   DIFFERENT
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+AC            0     0.00    25.85   13414.41        0.00    6236225   +0.0015/+0.0015    +0.0026/+0.0011   DIFFERENT
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+
+limits
+  LIMIT-STOCK  gross 0/25000   net 0/25000   fine 1.00/sh gross, 1.00/sh net
+
+our fills  (3864 transacted orders)
+          orders     shares     bought       sold     market      limit
+  CNR        695    1371706     698100     673606          0    1371706
+  RY        2274    7321320    3646431    3674889          0    7321320
+  AC         895    1764677     867287     897390          0    1764677
+
+transaction log  (18415 rows)
+  ticker type                    n         cash
+  AC     ORDER                2810     11219.46
+  AC     COMMISSION           2810     -3306.56
+  AC     LIMIT_REBATE         2653      5501.51
+  CNR    ORDER                1168      1160.30
+  CNR    COMMISSION           1168     -4761.94
+  CNR    LIMIT_REBATE          933      8199.21
+  LIMIT-STOCK GROSS_LIMIT_FINE        2     -3553.00
+  LIMIT-STOCK NET_LIMIT_FINE          1      -930.00
+  RY     ORDER                2490     64644.13
+  RY     COMMISSION           2490     10522.17
+  RY     LIMIT_REBATE         1890    -22755.68
+         ALL                 18415     65939.59
+
+this run, from the in-memory trace (no extra requests)
+  ticks 8–299   samples 291
+  cycle work  median 22 ms   p95 243 ms   max 448 ms
+  snapshots 4032   missed 33   HTTP 429 58   orders sent 9890   cancels 6310
+          max long  max short  end pos   FAST   SLOW
+  CNR        10100      -8300        0    136    155
+  RY         14000     -14230        0    218     73
+  AC          9000      -8600        0    189    102
+  pnl min +0.00   max +70422.59   last +70422.59
+  path (realized + unrealized)
+    tick  30    +6888.35   CNR -8000 SLOW  RY -8000 FAST  AC -6488 SLOW
+    tick  60   +17929.93   CNR -2079 SLOW  RY -8115 SLOW  AC -5200 SLOW
+    tick  90   +25797.85   CNR +3606 FAST  RY -8281 SLOW  AC +2834 FAST
+    tick 120   +29212.77   CNR -7700 SLOW  RY -8000 FAST  AC +5834 SLOW
+    tick 150   +42641.69   CNR +6145 FAST  RY +0 SLOW  AC -2200 FAST
+    tick 180   +49356.51   CNR -824 SLOW  RY -2449 FAST  AC +3700 SLOW
+    tick 210   +59765.22   CNR -2908 SLOW  RY -8000 FAST  AC +6800 FAST
+    tick 240   +62015.60   CNR +5118 SLOW  RY -2000 FAST  AC +6900 SLOW
+    tick 270   +65106.27   CNR +7500 SLOW  RY -2937 SLOW  AC -2600 FAST
+    tick 299   +70422.59   CNR +0 FAST  RY +0 FAST  AC +0 FAST
