@@ -1,0 +1,75 @@
+ALGO2e v2   period 1   tick 0/300   STOPPED
+trading limits: a fine, not a hard reject
+trader 1010264928    NLV 47,680.87    fines 2,168.00
+
+            pos     vwap     last   realized  unrealized     volume   fee      rebate   net passive (brief)
+CNR           0     0.00   164.24     113.89        0.00   11175290   +0.0027  +0.0050  +0.0023 (+0.0023)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+RY            0     0.00    87.57   55595.99        0.00   75501452   -0.0014  -0.0034  -0.0020 (-0.0020)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+AC            0     0.00    21.74   -5861.00        0.00    7800047   +0.0015  +0.0026  +0.0011 (+0.0011)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+
+limits
+  LIMIT-STOCK  gross 0/25000   net 0/25000   fine 1.00/sh gross, 1.00/sh net
+
+our fills  (4426 transacted orders)
+          orders     shares     bought       sold     market      limit
+  CNR        596    1050733     527275     523458       5978    1044755
+  RY        3452    9004085    4503544    4500541     157738    8846347
+  AC         378     450430     218040     232390        234     450196
+
+transaction log  (17369 rows)
+  ticker type                    n         cash
+  AC     ORDER                 978     -6208.90
+  AC     COMMISSION            978      -857.96
+  AC     LIMIT_REBATE          635      1205.85
+  CNR    ORDER                 965     -1951.68
+  CNR    COMMISSION            965     -3237.81
+  CNR    LIMIT_REBATE          664      5303.37
+  LIMIT-STOCK GROSS_LIMIT_FINE        2     -1084.00
+  LIMIT-STOCK NET_LIMIT_FINE          2     -1084.00
+  RY     ORDER                4504     69849.10
+  RY     COMMISSION           4504     13315.71
+  RY     LIMIT_REBATE         3172    -27568.82
+         ALL                 17369     47680.87
+
+this run, from the in-memory trace (no extra requests)
+  ticks 6–299   samples 294
+  cycle work, every cycle      median 16 ms   p95 234 ms   max 754 ms
+  cycle work, first of a tick  median 28 ms   p95 249 ms   max 754 ms
+  16.1 cycles/s   snapshots 4751   missed 1402   HTTP 429 4830   orders sent 10618   cancels 6676   held for an unconfirmed cancel 81
+          max long  max short  end pos   FAST   SLOW
+  CNR        12978      -8000        0     37    257
+  RY         13312     -10294        0     76    218
+  AC          8000      -8234        0     47    247
+  pnl min +0.00   max +50078.24   last +49848.87
+  path (realized + unrealized)
+    tick  30    +3305.58   CNR +3588 SLOW  RY -1000 SLOW  AC -823 SLOW
+    tick  60    +8383.04   CNR +7672 SLOW  RY +7753 SLOW  AC +5632 SLOW
+    tick  90   +11939.77   CNR +2323 SLOW  RY -967 SLOW  AC +256 SLOW
+    tick 120   +17754.88   CNR -1577 SLOW  RY +0 SLOW  AC -3506 SLOW
+    tick 150   +21322.98   CNR -4283 SLOW  RY +8000 SLOW  AC +5713 SLOW
+    tick 180   +24975.35   CNR +3480 SLOW  RY +3388 SLOW  AC -2126 SLOW
+    tick 210   +32930.19   CNR -1529 SLOW  RY -4600 SLOW  AC +3266 SLOW
+    tick 240   +37800.24   CNR +4595 SLOW  RY -2956 SLOW  AC -3890 SLOW
+    tick 270   +43906.46   CNR -3145 SLOW  RY -2595 SLOW  AC -2638 SLOW
+    tick 299   +49848.87   CNR +0 SLOW  RY +0 SLOW  AC +0 SLOW
+
+requests
+                               n  p50 ms  p95 ms  max ms   429  failed
+  GET case                  1189       6      23     266   178       0
+  GET limits                   1      97      97      97     0       0
+  GET orders                6155       6      17     514   816       2
+  GET securities            6155       6      17     517   971       7
+  GET securities/book      18462       6      18     521  2865      12
+  GET trader                   2      22      95      95     0       0
+  GET transactions             1     393     393     393     0       0
+  POST commands/cancel      2512       6      16     514     0       4
+  POST orders              10618       6      19     520     0      14
+
+races (a side where we and a rival both quoted a price we would take)
+  CNR    scored   9033   lost   81%
+  RY     scored   7782   lost   64%
+  AC     scored   7466   lost   82%
+  rivals seen: 1009828607, 1009840442, 1009841735, 1009898728, 1009975396, 1009975412, 1010014477, 1010161281, 1010329440, 1010400148, 1010916047, 1011004529, 1011136780, 1011173793, 1011558627, 1013986732

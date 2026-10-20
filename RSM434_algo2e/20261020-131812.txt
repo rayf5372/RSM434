@@ -1,0 +1,29 @@
+?   period ?   tick ?/?   ?
+trader ?    NLV 0.00    fines 0.00
+
+            pos     vwap     last   realized  unrealized     volume   fee      rebate   net passive (brief)
+CNR  not in /securities
+RY  not in /securities
+AC  not in /securities
+
+limits
+  none returned
+
+our fills  (0 transacted orders)
+  none. The server clears this log when the next case starts.
+
+transaction log  (0 rows)
+  none. The server clears this log when the next case starts.
+
+this run, from the in-memory trace (no extra requests)
+  empty. This notebook was not the process that traded, or the case had not ticked yet.
+
+requests
+                               n  p50 ms  p95 ms  max ms   429  failed
+  GET trader                   1    5017    5017    5017     0       1
+
+races (a side where we and a rival both quoted a price we would take)
+  CNR    scored      0   lost    0%
+  RY     scored      0   lost    0%
+  AC     scored      0   lost    0%
+  rivals seen: none
