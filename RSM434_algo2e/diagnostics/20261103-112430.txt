@@ -1,0 +1,69 @@
+ALGO2e v2   period 1   tick 0/300   STOPPED
+trading limits: a fine, not a hard reject
+trader 1010264928    NLV 72,032.79    fines 10,056.00
+
+            pos     vwap     last   realized  unrealized     volume   fee      rebate   net passive (brief)
+CNR           0     0.00   165.73   32559.81        0.00   10564519   +0.0027  +0.0050  +0.0023 (+0.0023)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+RY            0     0.00    95.03   41886.34        0.00   55762687   -0.0014  -0.0034  -0.0020 (-0.0020)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+AC            0     0.00    22.51    7642.65        0.00    7646708   +0.0015  +0.0026  +0.0011 (+0.0011)
+       server max order 50000 shares; this file caps a quote at 5000; server allows 500 orders/s
+
+limits
+  LIMIT-STOCK  gross 0/25000   net 0/25000   fine 1.00/sh gross, 1.00/sh net
+
+our fills  (2236 transacted orders)
+          orders     shares     bought       sold     market      limit
+  CNR        569    1663797     877030     786767       7492    1656305
+  RY        1220    4188358    2092578    2095780      57731    4130627
+  AC         447    1015083     522642     492441       3714    1011369
+
+transaction log  (11250 rows)
+  ticker type                    n         cash
+  AC     ORDER                1548      6226.73
+  AC     COMMISSION           1548     -2101.34
+  AC     LIMIT_REBATE         1438      3517.25
+  CNR    ORDER                1063     28194.56
+  CNR    COMMISSION           1063     -5617.98
+  CNR    LIMIT_REBATE          944      9983.23
+  LIMIT-STOCK GROSS_LIMIT_FINE        7     -6220.00
+  LIMIT-STOCK NET_LIMIT_FINE          5     -3836.00
+  RY     ORDER                1323     48798.30
+  RY     COMMISSION           1323      5965.33
+  RY     LIMIT_REBATE          988    -12877.29
+         ALL                 11250     72032.79
+
+this run, from the in-memory trace (no extra requests)
+  ticks 164–299   samples 129
+  cycle work, every cycle      median 17 ms   p95 238 ms   max 730 ms
+  cycle work, first of a tick  median 32 ms   p95 438 ms   max 696 ms
+  12.1 cycles/s   snapshots 1646   missed 1403   HTTP 429 4909   orders sent 4053   cancels 2487   held for an unconfirmed cancel 22
+          max long  max short  end pos   FAST   SLOW
+  CNR        12427      -8000        0     94     35
+  RY          8000      -8000        0    129      0
+  AC          8000      -8553        0    111     18
+  pnl min +24878.37   max +82088.79   last +82088.79
+  path (realized + unrealized)
+    tick 180   +32531.61   CNR -3451 SLOW  RY -3000 FAST  AC +1449 FAST
+    tick 210   +41789.67   CNR -1890 SLOW  RY -7000 FAST  AC +2243 FAST
+    tick 240   +61114.52   CNR +8000 SLOW  RY -2000 FAST  AC -500 FAST
+    tick 299   +82088.79   CNR +0 FAST  RY +0 FAST  AC +0 FAST
+
+requests
+                               n  p50 ms  p95 ms  max ms   429  failed
+  GET case                   657       8      23     232   200       0
+  GET limits                   1      32      32      32     0       0
+  GET orders                3051       7      19     233   890       0
+  GET securities            3051       7      18     528   949       2
+  GET securities/book       9150       7      19     516  2870       5
+  GET trader                   2      40      55      55     0       0
+  GET transactions             1     258     258     258     0       0
+  POST commands/cancel       880       7      23     505     0       3
+  POST orders               4053       9      27     519     0       7
+
+races (a side where we and a rival both quoted a price we would take)
+  CNR    scored   2454   lost   41%
+  RY     scored   1861   lost   29%
+  AC     scored   2289   lost   36%
+  rivals seen: 1009012131, 1010410002, 1010995023, 1011211742, 1011497337
