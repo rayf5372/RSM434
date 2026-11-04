@@ -1,0 +1,95 @@
+{
+  "downloaded_at": "2026-11-03T12:36:47",
+  "files": [
+    {
+      "source": "Cboe",
+      "series": "BXM",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/BXM_History.csv",
+      "file": "data/raw/cboe/BXM.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "BXMD",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/BXMD_History.csv",
+      "file": "data/raw/cboe/BXMD.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "BXY",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/BXY_History.csv",
+      "file": "data/raw/cboe/BXY.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "PUT",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/PUT_History.csv",
+      "file": "data/raw/cboe/PUT.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "CNDR",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/CNDR_History.csv",
+      "file": "data/raw/cboe/CNDR.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "BFLY",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/BFLY_History.csv",
+      "file": "data/raw/cboe/BFLY.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "CLL",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/CLL_History.csv",
+      "file": "data/raw/cboe/CLL.csv"
+    },
+    {
+      "source": "Cboe",
+      "series": "PPUT",
+      "url": "https://cdn.cboe.com/api/global/us_indices/daily_prices/PPUT_History.csv",
+      "file": "data/raw/cboe/PPUT.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "VIXCLS",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=VIXCLS",
+      "file": "data/raw/fred/VIXCLS.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "DGS2",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS2",
+      "file": "data/raw/fred/DGS2.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "DGS5",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DGS5",
+      "file": "data/raw/fred/DGS5.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "DTB3",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=DTB3",
+      "file": "data/raw/fred/DTB3.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "BAA10Y",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAA10Y",
+      "file": "data/raw/fred/BAA10Y.csv"
+    },
+    {
+      "source": "FRED",
+      "series": "BAMLC0A0CM",
+      "url": "https://fred.stlouisfed.org/graph/fredgraph.csv?id=BAMLC0A0CM",
+      "file": "data/raw/fred/BAMLC0A0CM.csv"
+    },
+    {
+      "source": "Yahoo",
+      "series": "^SP500TR",
+      "url": "yfinance",
+      "file": "data/raw/yahoo/SP500TR.csv"
+    }
+  ]
+}
