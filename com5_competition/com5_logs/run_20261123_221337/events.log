@@ -1,0 +1,1146 @@
+[P1 t243] news OPEC INCREASES OIL DEMAND FORECAST
+[P1 t243] news EU PROPOSES SANCTIONS AGAINST KUWAIT
+[P1 t243] EIA week 1 move -1.00 skipped (ramp left 0.00)
+[P1 t243] NEWS PIPELINE COST FOR ALASKA TO CUSHING GOING DOWN TO $34,000 PER LEASE.
+[P1 t243] EIA week 2 move +0.30 -> CRUDE net +100 until t270
+[P1 t243] EIA       CL-2F   +60  bid 100.59 ask 100.61
+[P1 t243] buy>AK    CL-AK   +10  bid 94.97 ask 94.99
+[P1 t243] ship AK  buy  AK-CS-PIPE #115 edge +0.688 pipe $34,000 arrives t273
+[P1 t243] buy>AK    CL-AK   +10  bid 94.97 ask 94.99
+[P1 t243] ship AK  buy  AK-CS-PIPE #116 edge +0.688 pipe $34,000 arrives t273
+[P1 t243] buy>NYC   CL      +10  bid 99.13 ask 99.15
+[P1 t243] ship NYC buy  CS-NYC-PIPE #118 edge +0.170 pipe $20,000 arrives t273
+[P1 t243] buy>NYC   CL      +10  bid 99.13 ask 99.15
+[P1 t243] ship NYC buy  CS-NYC-PIPE #119 edge +0.170 pipe $20,000 arrives t273
+[P1 t243] room      CL-2F   -30  bid 100.59 ask 100.61
+[P1 t243] refinery  CL      +30  bid 99.13 ask 99.15
+[P1 t243] REFINERY batch #122 crack $448,500 exp profit $147,410 done t288
+[P1 t243] EIA       CL-2F   +30  bid 100.59 ask 100.61
+[P1 t244] EIA       CL-2F   -40  bid 100.68 ask 100.70
+[P1 t244] buy>AK    CL-AK   +10  bid 95.03 ask 95.05
+[P1 t244] ship AK  buy  AK-CS-PIPE #141 edge +0.678 pipe $34,000 arrives t274
+[P1 t244] buy>AK    CL-AK   +10  bid 95.03 ask 95.05
+[P1 t244] ship AK  buy  AK-CS-PIPE #142 edge +0.678 pipe $34,000 arrives t274
+[P1 t244] buy>NYC   CL      +10  bid 99.18 ask 99.20
+[P1 t244] ship NYC buy  CS-NYC-PIPE #143 edge +0.194 pipe $20,000 arrives t274
+[P1 t244] buy>NYC   CL      +10  bid 99.18 ask 99.20
+[P1 t244] ship NYC buy  CS-NYC-PIPE #144 edge +0.194 pipe $20,000 arrives t274
+[P1 t245] futures book -> CL-1F (edge 1F +0.19 2F -0.08)
+[P1 t245] EIA       CL-2F   -20  bid 100.71 ask 100.73
+[P1 t245] EIA       CL-1F   -20  bid 99.98 ask 100.00
+[P1 t245] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t245] ship AK  buy  AK-CS-PIPE #145 edge +0.668 pipe $34,000 arrives t275
+[P1 t245] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t245] ship AK  buy  AK-CS-PIPE #146 edge +0.668 pipe $34,000 arrives t275
+[P1 t245] buy>NYC   CL      +10  bid 99.20 ask 99.22
+[P1 t245] ship NYC buy  CS-NYC-PIPE #147 edge +0.218 pipe $20,000 arrives t275
+[P1 t245] buy>NYC   CL      +10  bid 99.20 ask 99.22
+[P1 t245] ship NYC buy  CS-NYC-PIPE #148 edge +0.218 pipe $20,000 arrives t275
+[P1 t246] news HOPE RISES AS NEW PETROLEUM INDUSTRY BILL IS PASSED
+[P1 t246] EIA       CL-1F   -40  bid 100.02 ask 100.04
+[P1 t246] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t246] ship AK  buy  AK-CS-PIPE #149 edge +0.638 pipe $34,000 arrives t276
+[P1 t246] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t246] ship AK  buy  AK-CS-PIPE #150 edge +0.638 pipe $34,000 arrives t276
+[P1 t246] buy>NYC   CL      +10  bid 99.23 ask 99.25
+[P1 t246] ship NYC buy  CS-NYC-PIPE #151 edge +0.249 pipe $20,000 arrives t276
+[P1 t246] buy>NYC   CL      +10  bid 99.23 ask 99.25
+[P1 t246] ship NYC buy  CS-NYC-PIPE #152 edge +0.249 pipe $20,000 arrives t276
+[P1 t247] EIA       CL-1F   -40  bid 100.04 ask 100.06
+[P1 t247] buy>AK    CL-AK   +10  bid 95.16 ask 95.18
+[P1 t247] ship AK  buy  AK-CS-PIPE #153 edge +0.658 pipe $34,000 arrives t277
+[P1 t247] buy>AK    CL-AK   +10  bid 95.16 ask 95.18
+[P1 t247] ship AK  buy  AK-CS-PIPE #154 edge +0.658 pipe $34,000 arrives t277
+[P1 t247] buy>NYC   CL      +10  bid 99.29 ask 99.31
+[P1 t247] ship NYC buy  CS-NYC-PIPE #155 edge +0.273 pipe $20,000 arrives t277
+[P1 t247] buy>NYC   CL      +10  bid 99.29 ask 99.31
+[P1 t247] ship NYC buy  CS-NYC-PIPE #156 edge +0.273 pipe $20,000 arrives t277
+[P1 t270] hedge     CL-1F  -100  bid 99.83 ask 99.85
+[P1 t271] release  AK-STORAGE #114 storage
+[P1 t273] sell NYC  CL-NYC  -20  bid 101.60 ask 101.62
+[P1 t273] ship NYC fwd  CS-NYC-PIPE #197 edge +0.206 pipe $20,000 arrives t303
+[P1 t273] ship NYC fwd  CS-NYC-PIPE #198 edge +0.206 pipe $20,000 arrives t303
+[P1 t273] buy>AK    CL-AK   +10  bid 95.15 ask 95.17
+[P1 t273] ship AK  buy  AK-CS-PIPE #200 edge +0.698 pipe $34,000 arrives t303
+[P1 t273] buy>AK    CL-AK   +10  bid 95.15 ask 95.17
+[P1 t273] ship AK  buy  AK-CS-PIPE #201 edge +0.698 pipe $34,000 arrives t303
+[P1 t274] sell NYC  CL-NYC  -20  bid 101.53 ask 101.55
+[P1 t274] ship NYC fwd  CS-NYC-PIPE #202 edge +0.198 pipe $20,000 arrives t304
+[P1 t274] ship NYC fwd  CS-NYC-PIPE #203 edge +0.198 pipe $20,000 arrives t304
+[P1 t274] buy>AK    CL-AK   +10  bid 95.09 ask 95.11
+[P1 t274] ship AK  buy  AK-CS-PIPE #204 edge +0.698 pipe $34,000 arrives t304
+[P1 t274] buy>AK    CL-AK   +10  bid 95.09 ask 95.11
+[P1 t274] ship AK  buy  AK-CS-PIPE #205 edge +0.698 pipe $34,000 arrives t304
+[P1 t275] sell NYC  CL-NYC  -20  bid 101.41 ask 101.43
+[P1 t275] ship NYC fwd  CS-NYC-PIPE #206 edge +0.152 pipe $20,000 arrives t305
+[P1 t275] ship NYC fwd  CS-NYC-PIPE #207 edge +0.152 pipe $20,000 arrives t305
+[P1 t275] buy>AK    CL-AK   +10  bid 95.03 ask 95.05
+[P1 t275] ship AK  buy  AK-CS-PIPE #208 edge +0.698 pipe $34,000 arrives t305
+[P1 t275] buy>AK    CL-AK   +10  bid 95.03 ask 95.05
+[P1 t275] ship AK  buy  AK-CS-PIPE #209 edge +0.698 pipe $34,000 arrives t305
+[P1 t276] sell NYC  CL-NYC  -20  bid 101.41 ask 101.43
+[P1 t276] ship NYC fwd  CS-NYC-PIPE #210 edge +0.136 pipe $20,000 arrives t306
+[P1 t276] ship NYC fwd  CS-NYC-PIPE #211 edge +0.136 pipe $20,000 arrives t306
+[P1 t276] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P1 t276] ship AK  buy  AK-CS-PIPE #212 edge +0.678 pipe $34,000 arrives t306
+[P1 t276] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P1 t276] ship AK  buy  AK-CS-PIPE #213 edge +0.678 pipe $34,000 arrives t306
+[P1 t277] sell NYC  CL-NYC  -20  bid 101.37 ask 101.39
+[P1 t277] ship NYC fwd  CS-NYC-PIPE #214 edge +0.121 pipe $20,000 arrives t307
+[P1 t277] ship NYC fwd  CS-NYC-PIPE #215 edge +0.121 pipe $20,000 arrives t307
+[P1 t277] buy>AK    CL-AK   +10  bid 95.08 ask 95.10
+[P1 t277] ship AK  buy  AK-CS-PIPE #216 edge +0.648 pipe $34,000 arrives t307
+[P1 t277] buy>AK    CL-AK   +10  bid 95.08 ask 95.10
+[P1 t277] ship AK  buy  AK-CS-PIPE #217 edge +0.648 pipe $34,000 arrives t307
+[P1 t288] sell prod HO      -10  bid 3.35 ask 3.37
+[P1 t288] sell prod RB      -20  bid 2.34 ask 2.36
+[P1 t288] release  CL-REFINERY #122 refinery unused
+[P1 t289] refinery  CL      +30  bid 98.92 ask 98.94
+[P1 t289] REFINERY batch #271 crack $404,400 exp profit $104,310 done t334
+[P1 t298] futures book -> CL-2F (edge 1F -0.34 2F +0.07)
+[P1 t298] hedge     CL-1F  +100  bid 99.19 ask 99.21
+[P1 t298] hedge     CL-2F  -200  bid 100.60 ask 100.62
+[P1 t298] hedge     CL-1F  +100  bid 99.19 ask 99.21
+[P1 t299] release  NYC-STORAGE #192 storage
+[P1 t299] release  NYC-STORAGE #193 storage
+[P1 t300] release  CL-STORAGE #194 storage
+[P1 t301] release  AK-STORAGE #199 storage
+[P1 t303] sell NYC  CL-NYC  -20  bid 100.85 ask 100.87
+[P1 t303] sell CL   CL      -20  bid 98.91 ask 98.93
+[P1 t303] hedge     CL-2F   +20  bid 100.39 ask 100.41
+[P1 t303] buy>AK    CL-AK   +10  bid 94.90 ask 94.92
+[P1 t303] ship AK  buy  AK-CS-PIPE #276 edge +0.538 pipe $34,000 arrives t333
+[P1 t303] buy>AK    CL-AK   +10  bid 94.90 ask 94.92
+[P1 t303] ship AK  buy  AK-CS-PIPE #277 edge +0.538 pipe $34,000 arrives t333
+[P1 t304] sell NYC  CL-NYC  -20  bid 100.93 ask 100.95
+[P1 t304] sell CL   CL      -20  bid 98.98 ask 99.00
+[P1 t304] hedge     CL-2F   +20  bid 100.47 ask 100.49
+[P1 t304] buy>AK    CL-AK   +10  bid 94.96 ask 94.98
+[P1 t304] ship AK  buy  AK-CS-PIPE #278 edge +0.548 pipe $34,000 arrives t334
+[P1 t304] buy>AK    CL-AK   +10  bid 94.96 ask 94.98
+[P1 t304] ship AK  buy  AK-CS-PIPE #279 edge +0.548 pipe $34,000 arrives t334
+[P1 t305] sell NYC  CL-NYC  -20  bid 100.91 ask 100.93
+[P1 t305] sell CL   CL      -20  bid 99.00 ask 99.02
+[P1 t305] hedge     CL-2F   +20  bid 100.47 ask 100.49
+[P1 t305] buy>AK    CL-AK   +10  bid 94.95 ask 94.97
+[P1 t305] ship AK  buy  AK-CS-PIPE #280 edge +0.578 pipe $34,000 arrives t335
+[P1 t305] buy>AK    CL-AK   +10  bid 94.95 ask 94.97
+[P1 t305] ship AK  buy  AK-CS-PIPE #281 edge +0.578 pipe $34,000 arrives t335
+[P1 t306] sell NYC  CL-NYC  -20  bid 100.97 ask 100.99
+[P1 t306] sell CL   CL      -20  bid 99.10 ask 99.12
+[P1 t306] hedge     CL-2F   +20  bid 100.57 ask 100.59
+[P1 t306] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t306] ship AK  buy  AK-CS-PIPE #282 edge +0.508 pipe $34,000 arrives t336
+[P1 t306] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t306] ship AK  buy  AK-CS-PIPE #283 edge +0.508 pipe $34,000 arrives t336
+[P1 t307] sell NYC  CL-NYC  -20  bid 100.94 ask 100.96
+[P1 t307] sell CL   CL      -20  bid 99.08 ask 99.10
+[P1 t307] hedge     CL-2F   +20  bid 100.52 ask 100.54
+[P1 t307] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t307] ship AK  buy  AK-CS-PIPE #284 edge +0.488 pipe $34,000 arrives t337
+[P1 t307] buy>AK    CL-AK   +10  bid 95.12 ask 95.14
+[P1 t307] ship AK  buy  AK-CS-PIPE #285 edge +0.488 pipe $34,000 arrives t337
+[P1 t329] futures book -> CL-1F (edge 1F +0.06 2F -0.09)
+[P1 t329] hedge     CL-2F  +100  bid 100.18 ask 100.20
+[P1 t329] hedge     CL-1F  -100  bid 99.33 ask 99.35
+[P1 t330] release  CL-STORAGE #272 storage
+[P1 t330] release  NYC-STORAGE #195 storage
+[P1 t330] release  NYC-STORAGE #196 storage
+[P1 t330] release  NYC-STORAGE #273 storage
+[P1 t330] release  NYC-STORAGE #274 storage
+[P1 t331] release  AK-STORAGE #275 storage
+[P1 t333] sell CL   CL      -20  bid 98.81 ask 98.83
+[P1 t333] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t333] ship AK  buy  AK-CS-PIPE #314 edge +0.278 pipe $34,000 arrives t363
+[P1 t333] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t333] ship AK  buy  AK-CS-PIPE #315 edge +0.278 pipe $34,000 arrives t363
+[P1 t334] sell CL   CL      -20  bid 98.87 ask 98.89
+[P1 t334] sell prod HO      -10  bid 3.17 ask 3.19
+[P1 t334] sell prod RB      -20  bid 2.31 ask 2.33
+[P1 t334] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P1 t334] ship AK  buy  AK-CS-PIPE #316 edge +0.328 pipe $34,000 arrives t364
+[P1 t334] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P1 t334] ship AK  buy  AK-CS-PIPE #317 edge +0.328 pipe $34,000 arrives t364
+[P1 t334] release  CL-REFINERY #271 refinery unused
+[P1 t335] sell CL   CL      -20  bid 98.87 ask 98.89
+[P1 t335] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t335] ship AK  buy  AK-CS-PIPE #318 edge +0.338 pipe $34,000 arrives t365
+[P1 t335] buy>AK    CL-AK   +10  bid 95.06 ask 95.08
+[P1 t335] ship AK  buy  AK-CS-PIPE #319 edge +0.338 pipe $34,000 arrives t365
+[P1 t336] sell CL   CL      -20  bid 98.84 ask 98.86
+[P1 t336] buy>AK    CL-AK   +10  bid 94.97 ask 94.99
+[P1 t336] ship AK  buy  AK-CS-PIPE #329 edge +0.398 pipe $34,000 arrives t366
+[P1 t336] buy>AK    CL-AK   +10  bid 94.97 ask 94.99
+[P1 t336] ship AK  buy  AK-CS-PIPE #330 edge +0.398 pipe $34,000 arrives t366
+[P1 t337] sell CL   CL      -20  bid 98.89 ask 98.91
+[P1 t337] buy>AK    CL-AK   +10  bid 94.98 ask 95.00
+[P1 t337] ship AK  buy  AK-CS-PIPE #349 edge +0.438 pipe $34,000 arrives t367
+[P1 t337] buy>AK    CL-AK   +10  bid 94.98 ask 95.00
+[P1 t337] ship AK  buy  AK-CS-PIPE #350 edge +0.438 pipe $34,000 arrives t367
+[P1 t344] NEWS PIPELINE COST FOR ALASKA TO CUSHING BACK TO $40000 PER LEASE.
+[P1 t360] release  CL-STORAGE #312 storage
+[P1 t361] release  AK-STORAGE #313 storage
+[P1 t363] sell CL   CL      -20  bid 98.67 ask 98.69
+[P1 t363] hedge     CL-1F   +20  bid 98.96 ask 98.98
+[P1 t364] sell CL   CL      -20  bid 98.67 ask 98.69
+[P1 t364] hedge     CL-1F   +20  bid 98.98 ask 99.00
+[P1 t365] sell CL   CL      -20  bid 98.64 ask 98.66
+[P1 t365] hedge     CL-1F   +20  bid 98.95 ask 98.97
+[P1 t366] sell CL   CL      -20  bid 98.63 ask 98.65
+[P1 t366] hedge     CL-1F   +20  bid 98.95 ask 98.97
+[P1 t367] sell CL   CL      -20  bid 98.67 ask 98.69
+[P1 t367] hedge     CL-1F   +20  bid 99.01 ask 99.03
+[P1 t390] EIA week 3 move +1.20 -> CRUDE net +100 until t420
+[P1 t390] EIA       CL-1F  +100  bid 98.98 ask 99.00
+[P1 t390] release  CL-STORAGE #378 storage
+[P1 t391] futures book -> CL-2F (edge 1F -0.15 2F -0.27)
+[P1 t391] EIA       CL-1F  -100  bid 99.05 ask 99.07
+[P1 t391] EIA       CL-2F  +100  bid 99.93 ask 99.95
+[P1 t391] release  CL-STORAGE #117 storage
+[P1 t391] release  CL-STORAGE #120 storage
+[P1 t391] release  CL-STORAGE #121 storage
+[P1 t420] hedge     CL-2F  -100  bid 101.11 ask 101.13
+[P1 t435] refinery  CL      +30  bid 100.08 ask 100.10
+[P1 t435] REFINERY batch #394 crack $352,800 exp profit $51,210 done t480
+[P1 t458] calendar +0 -> -100 (2F-1F-1 -0.41)
+[P1 t458] hedge     CL-1F  -100  bid 100.19 ask 100.21
+[P1 t458] hedge     CL-2F  +100  bid 100.78 ask 100.80
+[P1 t463] release  CL-STORAGE #391 storage
+[P1 t463] release  CL-STORAGE #392 storage
+[P1 t463] release  CL-STORAGE #393 storage
+[P1 t464] futures book -> CL-1F (edge 1F -0.15 2F -0.54)
+[P1 t464] hedge     CL-1F   -20  bid 100.13 ask 100.15
+[P1 t464] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P1 t464] ship AK  buy  AK-CS-PIPE #396 edge +0.068 pipe $40,000 arrives t494
+[P1 t464] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P1 t464] ship AK  buy  AK-CS-PIPE #397 edge +0.068 pipe $40,000 arrives t494
+[P1 t465] hedge     CL-1F   -20  bid 100.03 ask 100.05
+[P1 t465] buy>AK    CL-AK   +10  bid 95.83 ask 95.85
+[P1 t465] ship AK  buy  AK-CS-PIPE #398 edge +0.058 pipe $40,000 arrives t495
+[P1 t465] buy>AK    CL-AK   +10  bid 95.83 ask 95.85
+[P1 t465] ship AK  buy  AK-CS-PIPE #399 edge +0.058 pipe $40,000 arrives t495
+[P1 t467] hedge     CL-1F   -20  bid 100.12 ask 100.14
+[P1 t467] buy>AK    CL-AK   +10  bid 95.87 ask 95.89
+[P1 t467] ship AK  buy  AK-CS-PIPE #400 edge +0.058 pipe $40,000 arrives t497
+[P1 t467] buy>AK    CL-AK   +10  bid 95.87 ask 95.89
+[P1 t467] ship AK  buy  AK-CS-PIPE #401 edge +0.058 pipe $40,000 arrives t497
+[P1 t469] hedge     CL-1F   -20  bid 100.17 ask 100.19
+[P1 t469] buy>AK    CL-AK   +10  bid 95.95 ask 95.97
+[P1 t469] ship AK  buy  AK-CS-PIPE #402 edge +0.058 pipe $40,000 arrives t499
+[P1 t469] buy>AK    CL-AK   +10  bid 95.95 ask 95.97
+[P1 t469] ship AK  buy  AK-CS-PIPE #403 edge +0.058 pipe $40,000 arrives t499
+[P1 t470] hedge     CL-1F   -20  bid 100.17 ask 100.19
+[P1 t470] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P1 t470] ship AK  buy  AK-CS-PIPE #404 edge +0.078 pipe $40,000 arrives t500
+[P1 t470] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P1 t470] ship AK  buy  AK-CS-PIPE #405 edge +0.078 pipe $40,000 arrives t500
+[P1 t477] NEWS PIPELINE COST FOR CUSHING TO NYC GOING UP TO $25,000 PER LEASE.
+[P1 t480] sell prod HO      -10  bid 3.04 ask 3.06
+[P1 t480] sell prod RB      -20  bid 2.45 ask 2.47
+[P1 t480] release  CL-REFINERY #394 refinery unused
+[P1 t492] release  AK-STORAGE #395 storage
+[P1 t494] sell CL   CL      -20  bid 100.14 ask 100.16
+[P1 t494] hedge     CL-1F   +20  bid 100.26 ask 100.28
+[P1 t495] sell CL   CL      -20  bid 100.14 ask 100.16
+[P1 t495] hedge     CL-1F   +20  bid 100.28 ask 100.30
+[P1 t497] sell CL   CL      -20  bid 100.22 ask 100.24
+[P1 t497] hedge     CL-1F   +20  bid 100.36 ask 100.38
+[P1 t499] sell CL   CL      -20  bid 100.25 ask 100.27
+[P1 t499] hedge     CL-1F   +20  bid 100.41 ask 100.43
+[P1 t500] sell CL   CL      -20  bid 100.27 ask 100.29
+[P1 t500] hedge     CL-1F   +20  bid 100.43 ask 100.45
+[P1 t504] hedge     CL-1F   -20  bid 100.32 ask 100.34
+[P1 t504] buy>AK    CL-AK   +10  bid 96.03 ask 96.05
+[P1 t504] ship AK  buy  AK-CS-PIPE #412 edge +0.068 pipe $40,000 arrives t534
+[P1 t504] buy>AK    CL-AK   +10  bid 96.03 ask 96.05
+[P1 t504] ship AK  buy  AK-CS-PIPE #413 edge +0.068 pipe $40,000 arrives t534
+[P1 t505] hedge     CL-1F   -20  bid 100.33 ask 100.35
+[P1 t505] buy>AK    CL-AK   +10  bid 96.01 ask 96.03
+[P1 t505] ship AK  buy  AK-CS-PIPE #414 edge +0.078 pipe $40,000 arrives t535
+[P1 t505] buy>AK    CL-AK   +10  bid 96.01 ask 96.03
+[P1 t505] ship AK  buy  AK-CS-PIPE #415 edge +0.078 pipe $40,000 arrives t535
+[P1 t506] hedge     CL-1F   -20  bid 100.39 ask 100.41
+[P1 t506] buy>AK    CL-AK   +10  bid 96.08 ask 96.10
+[P1 t506] ship AK  buy  AK-CS-PIPE #416 edge +0.088 pipe $40,000 arrives t536
+[P1 t506] buy>AK    CL-AK   +10  bid 96.08 ask 96.10
+[P1 t506] ship AK  buy  AK-CS-PIPE #417 edge +0.088 pipe $40,000 arrives t536
+[P1 t507] hedge     CL-1F   -20  bid 100.41 ask 100.43
+[P1 t507] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P1 t507] ship AK  buy  AK-CS-PIPE #418 edge +0.068 pipe $40,000 arrives t537
+[P1 t507] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P1 t507] ship AK  buy  AK-CS-PIPE #419 edge +0.068 pipe $40,000 arrives t537
+[P1 t511] refinery  CL      +30  bid 100.45 ask 100.47
+[P1 t511] REFINERY batch #420 crack $341,700 exp profit $41,610 done t556
+[P1 t520] calendar -100 -> +0 (2F-1F-1 +0.00)
+[P1 t520] hedge     CL-1F  +100  bid 100.57 ask 100.59
+[P1 t520] hedge     CL-2F  -100  bid 101.57 ask 101.59
+[P1 t520] release  CL-STORAGE #407 storage
+[P1 t520] release  CL-STORAGE #408 storage
+[P1 t521] release  CL-STORAGE #409 storage
+[P1 t521] release  CL-STORAGE #410 storage
+[P1 t522] hedge     CL-1F   -20  bid 100.65 ask 100.67
+[P1 t522] buy>AK    CL-AK   +10  bid 96.49 ask 96.51
+[P1 t522] ship AK  buy  AK-CS-PIPE #425 edge +0.058 pipe $40,000 arrives t552
+[P1 t522] buy>AK    CL-AK   +10  bid 96.49 ask 96.51
+[P1 t522] ship AK  buy  AK-CS-PIPE #426 edge +0.058 pipe $40,000 arrives t552
+[P1 t533] release  AK-STORAGE #411 storage
+[P1 t534] sell CL   CL      -20  bid 100.57 ask 100.59
+[P1 t534] buy>AK    CL-AK   +10  bid 96.29 ask 96.31
+[P1 t534] ship AK  buy  AK-CS-PIPE #432 edge +0.208 pipe $40,000 arrives t564
+[P1 t534] buy>AK    CL-AK   +10  bid 96.29 ask 96.31
+[P1 t534] ship AK  buy  AK-CS-PIPE #433 edge +0.208 pipe $40,000 arrives t564
+[P1 t535] sell CL   CL      -20  bid 100.56 ask 100.58
+[P1 t535] buy>AK    CL-AK   +10  bid 96.32 ask 96.34
+[P1 t535] ship AK  buy  AK-CS-PIPE #434 edge +0.168 pipe $40,000 arrives t565
+[P1 t535] buy>AK    CL-AK   +10  bid 96.32 ask 96.34
+[P1 t535] ship AK  buy  AK-CS-PIPE #435 edge +0.168 pipe $40,000 arrives t565
+[P1 t536] sell CL   CL      -20  bid 100.45 ask 100.47
+[P1 t536] buy>AK    CL-AK   +10  bid 96.19 ask 96.21
+[P1 t536] ship AK  buy  AK-CS-PIPE #436 edge +0.188 pipe $40,000 arrives t566
+[P1 t536] buy>AK    CL-AK   +10  bid 96.19 ask 96.21
+[P1 t536] ship AK  buy  AK-CS-PIPE #437 edge +0.188 pipe $40,000 arrives t566
+[P1 t537] sell CL   CL      -20  bid 100.38 ask 100.40
+[P1 t537] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P1 t537] ship AK  buy  AK-CS-PIPE #438 edge +0.158 pipe $40,000 arrives t567
+[P1 t537] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P1 t537] ship AK  buy  AK-CS-PIPE #439 edge +0.158 pipe $40,000 arrives t567
+[P1 t540] EIA week 4 move -1.20 -> CRUDE net -100 until t570
+[P1 t540] EIA       CL-1F  -100  bid 100.42 ask 100.44
+[P1 t552] room      CL-1F   +20  bid 99.79 ask 99.81
+[P1 t552] sell CL   CL      -20  bid 99.75 ask 99.77
+[P1 t552] buy>AK    CL-AK   +10  bid 95.52 ask 95.54
+[P1 t552] ship AK  buy  AK-CS-PIPE #441 edge +0.158 pipe $40,000 arrives t582
+[P1 t552] buy>AK    CL-AK   +10  bid 95.52 ask 95.54
+[P1 t552] ship AK  buy  AK-CS-PIPE #442 edge +0.158 pipe $40,000 arrives t582
+[P1 t552] EIA       CL-1F   -20  bid 99.79 ask 99.81
+[P1 t556] sell prod HO      -10  bid 2.94 ask 2.96
+[P1 t556] sell prod RB      -20  bid 2.35 ask 2.37
+[P1 t556] release  CL-REFINERY #420 refinery unused
+[P1 t560] release  CL-STORAGE #427 storage
+[P1 t560] release  CL-STORAGE #428 storage
+[P1 t563] release  AK-STORAGE #431 storage
+[P1 t564] room      CL-1F   +20  bid 99.33 ask 99.35
+[P1 t564] sell CL   CL      -20  bid 99.28 ask 99.30
+[P1 t564] buy>AK    CL-AK   +10  bid 94.99 ask 95.01
+[P1 t564] ship AK  buy  AK-CS-PIPE #446 edge +0.218 pipe $40,000 arrives t594
+[P1 t564] buy>AK    CL-AK   +10  bid 94.99 ask 95.01
+[P1 t564] ship AK  buy  AK-CS-PIPE #447 edge +0.218 pipe $40,000 arrives t594
+[P1 t564] EIA       CL-1F   -20  bid 99.33 ask 99.35
+[P1 t565] room      CL-1F   +20  bid 99.28 ask 99.30
+[P1 t565] sell CL   CL      -20  bid 99.25 ask 99.27
+[P1 t565] buy>AK    CL-AK   +10  bid 95.02 ask 95.04
+[P1 t565] ship AK  buy  AK-CS-PIPE #448 edge +0.158 pipe $40,000 arrives t595
+[P1 t565] buy>AK    CL-AK   +10  bid 95.02 ask 95.04
+[P1 t565] ship AK  buy  AK-CS-PIPE #449 edge +0.158 pipe $40,000 arrives t595
+[P1 t565] EIA       CL-1F   -20  bid 99.28 ask 99.30
+[P1 t566] room      CL-1F   +20  bid 99.30 ask 99.32
+[P1 t566] sell CL   CL      -20  bid 99.23 ask 99.25
+[P1 t566] buy>AK    CL-AK   +10  bid 95.00 ask 95.02
+[P1 t566] ship AK  buy  AK-CS-PIPE #450 edge +0.158 pipe $40,000 arrives t596
+[P1 t566] buy>AK    CL-AK   +10  bid 95.00 ask 95.02
+[P1 t566] ship AK  buy  AK-CS-PIPE #451 edge +0.158 pipe $40,000 arrives t596
+[P1 t566] EIA       CL-1F   -20  bid 99.30 ask 99.32
+[P1 t567] room      CL-1F   +20  bid 99.16 ask 99.18
+[P1 t567] sell CL   CL      -20  bid 99.10 ask 99.12
+[P1 t570] hedge     CL-1F  +100  bid 99.03 ask 99.05
+[P1 t582] sell CL   CL      -20  bid 99.01 ask 99.03
+[P1 t582] hedge     CL-1F   +20  bid 99.08 ask 99.10
+[P1 t585] hedge     CL-1F   +60  bid 99.07 ask 99.09
+[P1 t585] hedge     CL-2F   -60  bid 100.07 ask 100.09
+[P1 t591] release  CL-STORAGE #429 storage
+[P1 t591] release  CL-STORAGE #430 storage
+[P1 t592] release  AK-STORAGE #445 storage
+[P1 t594] sell CL   CL      -20  bid 99.07 ask 99.09
+[P1 t594] hedge     CL-2F   +20  bid 100.14 ask 100.16
+[P1 t595] sell CL   CL      -20  bid 99.07 ask 99.09
+[P1 t595] hedge     CL-2F   +20  bid 100.11 ask 100.13
+[P1 t596] sell CL   CL      -20  bid 99.12 ask 99.14
+[P1 t596] hedge     CL-2F   +20  bid 100.16 ask 100.18
+[P2 t 21] release  CL-STORAGE #443 storage
+[P2 t 21] release  CL-STORAGE #444 storage
+[P2 t 21] release  CL-STORAGE #462 storage
+[P2 t 21] release  CL-STORAGE #463 storage
+[P2 t 25] hedge     CL-2F   -20  bid 100.22 ask 100.24
+[P2 t 25] buy>AK    CL-AK   +10  bid 95.09 ask 95.11
+[P2 t 25] ship AK  buy  AK-CS-PIPE #466 edge +0.058 pipe $40,000 arrives t55
+[P2 t 25] buy>AK    CL-AK   +10  bid 95.09 ask 95.11
+[P2 t 25] ship AK  buy  AK-CS-PIPE #467 edge +0.058 pipe $40,000 arrives t55
+[P2 t 26] hedge     CL-2F   -20  bid 100.27 ask 100.29
+[P2 t 26] buy>AK    CL-AK   +10  bid 95.10 ask 95.12
+[P2 t 26] ship AK  buy  AK-CS-PIPE #468 edge +0.058 pipe $40,000 arrives t56
+[P2 t 26] buy>AK    CL-AK   +10  bid 95.10 ask 95.12
+[P2 t 26] ship AK  buy  AK-CS-PIPE #469 edge +0.058 pipe $40,000 arrives t56
+[P2 t 27] hedge     CL-2F   -20  bid 100.25 ask 100.27
+[P2 t 27] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P2 t 27] ship AK  buy  AK-CS-PIPE #470 edge +0.078 pipe $40,000 arrives t57
+[P2 t 27] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P2 t 27] ship AK  buy  AK-CS-PIPE #471 edge +0.078 pipe $40,000 arrives t57
+[P2 t 32] hedge     CL-2F   -20  bid 100.54 ask 100.56
+[P2 t 32] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P2 t 32] ship AK  buy  AK-CS-PIPE #484 edge +0.058 pipe $40,000 arrives t62
+[P2 t 32] buy>AK    CL-AK   +10  bid 95.07 ask 95.09
+[P2 t 32] ship AK  buy  AK-CS-PIPE #485 edge +0.058 pipe $40,000 arrives t62
+[P2 t 36] news SNOW IN JACKSONVILLE, FL
+[P2 t 36] hedge     CL-2F   -20  bid 100.60 ask 100.62
+[P2 t 36] buy>AK    CL-AK   +10  bid 95.11 ask 95.13
+[P2 t 36] ship AK  buy  AK-CS-PIPE #486 edge +0.078 pipe $40,000 arrives t66
+[P2 t 36] buy>AK    CL-AK   +10  bid 95.11 ask 95.13
+[P2 t 36] ship AK  buy  AK-CS-PIPE #487 edge +0.078 pipe $40,000 arrives t66
+[P2 t 53] release  AK-STORAGE #465 storage
+[P2 t 55] sell CL   CL      -20  bid 99.16 ask 99.18
+[P2 t 55] buy>AK    CL-AK   +10  bid 94.88 ask 94.90
+[P2 t 55] ship AK  buy  AK-CS-PIPE #520 edge +0.208 pipe $40,000 arrives t85
+[P2 t 55] buy>AK    CL-AK   +10  bid 94.88 ask 94.90
+[P2 t 55] ship AK  buy  AK-CS-PIPE #521 edge +0.208 pipe $40,000 arrives t85
+[P2 t 56] sell CL   CL      -20  bid 99.24 ask 99.26
+[P2 t 56] buy>AK    CL-AK   +10  bid 94.98 ask 95.00
+[P2 t 56] ship AK  buy  AK-CS-PIPE #523 edge +0.188 pipe $40,000 arrives t86
+[P2 t 56] buy>AK    CL-AK   +10  bid 94.98 ask 95.00
+[P2 t 56] ship AK  buy  AK-CS-PIPE #524 edge +0.188 pipe $40,000 arrives t86
+[P2 t 57] sell CL   CL      -20  bid 99.15 ask 99.17
+[P2 t 57] buy>AK    CL-AK   +10  bid 94.89 ask 94.91
+[P2 t 57] ship AK  buy  AK-CS-PIPE #525 edge +0.188 pipe $40,000 arrives t87
+[P2 t 57] buy>AK    CL-AK   +10  bid 94.89 ask 94.91
+[P2 t 57] ship AK  buy  AK-CS-PIPE #526 edge +0.188 pipe $40,000 arrives t87
+[P2 t 62] sell CL   CL      -20  bid 99.32 ask 99.34
+[P2 t 62] buy>AK    CL-AK   +10  bid 95.08 ask 95.10
+[P2 t 62] ship AK  buy  AK-CS-PIPE #527 edge +0.168 pipe $40,000 arrives t92
+[P2 t 62] buy>AK    CL-AK   +10  bid 95.08 ask 95.10
+[P2 t 62] ship AK  buy  AK-CS-PIPE #528 edge +0.168 pipe $40,000 arrives t92
+[P2 t 66] sell CL   CL      -20  bid 99.31 ask 99.33
+[P2 t 66] buy>AK    CL-AK   +10  bid 94.96 ask 94.98
+[P2 t 66] ship AK  buy  AK-CS-PIPE #530 edge +0.278 pipe $40,000 arrives t96
+[P2 t 66] buy>AK    CL-AK   +10  bid 94.96 ask 94.98
+[P2 t 66] ship AK  buy  AK-CS-PIPE #531 edge +0.278 pipe $40,000 arrives t96
+[P2 t 81] release  CL-STORAGE #515 storage
+[P2 t 81] release  CL-STORAGE #516 storage
+[P2 t 83] release  AK-STORAGE #519 storage
+[P2 t 85] sell CL   CL      -20  bid 99.56 ask 99.58
+[P2 t 85] buy>AK    CL-AK   +10  bid 95.33 ask 95.35
+[P2 t 85] ship AK  buy  AK-CS-PIPE #535 edge +0.158 pipe $40,000 arrives t115
+[P2 t 85] buy>AK    CL-AK   +10  bid 95.33 ask 95.35
+[P2 t 85] ship AK  buy  AK-CS-PIPE #536 edge +0.158 pipe $40,000 arrives t115
+[P2 t 86] sell CL   CL      -20  bid 99.53 ask 99.55
+[P2 t 86] buy>AK    CL-AK   +10  bid 95.32 ask 95.34
+[P2 t 86] ship AK  buy  AK-CS-PIPE #537 edge +0.138 pipe $40,000 arrives t116
+[P2 t 86] buy>AK    CL-AK   +10  bid 95.32 ask 95.34
+[P2 t 86] ship AK  buy  AK-CS-PIPE #538 edge +0.138 pipe $40,000 arrives t116
+[P2 t 87] sell CL   CL      -20  bid 99.52 ask 99.54
+[P2 t 87] buy>AK    CL-AK   +10  bid 95.31 ask 95.33
+[P2 t 87] ship AK  buy  AK-CS-PIPE #539 edge +0.138 pipe $40,000 arrives t117
+[P2 t 87] buy>AK    CL-AK   +10  bid 95.31 ask 95.33
+[P2 t 87] ship AK  buy  AK-CS-PIPE #540 edge +0.138 pipe $40,000 arrives t117
+[P2 t 90] EIA week 5 move +2.00 -> CRUDE net +100 until t120
+[P2 t 90] EIA       CL-2F  +100  bid 100.51 ask 100.53
+[P2 t 92] sell CL   CL      -20  bid 99.62 ask 99.64
+[P2 t 92] buy>AK    CL-AK   +10  bid 95.36 ask 95.38
+[P2 t 92] ship AK  buy  AK-CS-PIPE #542 edge +0.188 pipe $40,000 arrives t122
+[P2 t 92] buy>AK    CL-AK   +10  bid 95.36 ask 95.38
+[P2 t 92] ship AK  buy  AK-CS-PIPE #543 edge +0.188 pipe $40,000 arrives t122
+[P2 t 96] sell CL   CL      -20  bid 99.94 ask 99.96
+[P2 t 96] buy>AK    CL-AK   +10  bid 95.78 ask 95.80
+[P2 t 96] ship AK  buy  AK-CS-PIPE #544 edge +0.088 pipe $40,000 arrives t126
+[P2 t 96] buy>AK    CL-AK   +10  bid 95.78 ask 95.80
+[P2 t 96] ship AK  buy  AK-CS-PIPE #545 edge +0.088 pipe $40,000 arrives t126
+[P2 t105] NEWS PIPELINE COST FOR CUSHING TO NYC GOING DOWN TO $14,000 PER LEASE.
+[P2 t106] EIA       CL-2F   -20  bid 101.63 ask 101.65
+[P2 t106] buy>NYC   CL      +10  bid 100.67 ask 100.69
+[P2 t106] ship NYC buy  CS-NYC-PIPE #547 edge +0.447 pipe $14,000 arrives t136
+[P2 t106] buy>NYC   CL      +10  bid 100.67 ask 100.69
+[P2 t106] ship NYC buy  CS-NYC-PIPE #548 edge +0.447 pipe $14,000 arrives t136
+[P2 t107] EIA       CL-2F   -20  bid 101.69 ask 101.71
+[P2 t107] buy>NYC   CL      +10  bid 100.72 ask 100.74
+[P2 t107] ship NYC buy  CS-NYC-PIPE #550 edge +0.431 pipe $14,000 arrives t137
+[P2 t107] buy>NYC   CL      +10  bid 100.72 ask 100.74
+[P2 t107] ship NYC buy  CS-NYC-PIPE #551 edge +0.431 pipe $14,000 arrives t137
+[P2 t108] EIA       CL-2F   -20  bid 101.82 ask 101.84
+[P2 t108] buy>NYC   CL      +10  bid 100.80 ask 100.82
+[P2 t108] ship NYC buy  CS-NYC-PIPE #552 edge +0.447 pipe $14,000 arrives t138
+[P2 t108] buy>NYC   CL      +10  bid 100.80 ask 100.82
+[P2 t108] ship NYC buy  CS-NYC-PIPE #553 edge +0.447 pipe $14,000 arrives t138
+[P2 t109] EIA       CL-2F   -20  bid 101.83 ask 101.85
+[P2 t109] buy>NYC   CL      +10  bid 100.81 ask 100.83
+[P2 t109] ship NYC buy  CS-NYC-PIPE #554 edge +0.462 pipe $14,000 arrives t139
+[P2 t109] buy>NYC   CL      +10  bid 100.81 ask 100.83
+[P2 t109] ship NYC buy  CS-NYC-PIPE #555 edge +0.462 pipe $14,000 arrives t139
+[P2 t110] EIA       CL-2F   -20  bid 101.91 ask 101.93
+[P2 t110] buy>NYC   CL      +10  bid 100.84 ask 100.86
+[P2 t110] ship NYC buy  CS-NYC-PIPE #556 edge +0.447 pipe $14,000 arrives t140
+[P2 t110] buy>NYC   CL      +10  bid 100.84 ask 100.86
+[P2 t110] ship NYC buy  CS-NYC-PIPE #557 edge +0.447 pipe $14,000 arrives t140
+[P2 t112] release  CL-STORAGE #517 storage
+[P2 t113] release  AK-STORAGE #534 storage
+[P2 t115] news RUMORS OF DEPLETING RESOURCES PERSIST
+[P2 t115] sell CL   CL      -20  bid 101.20 ask 101.22
+[P2 t115] EIA       CL-2F   +20  bid 102.23 ask 102.25
+[P2 t116] sell CL   CL      -20  bid 101.30 ask 101.32
+[P2 t116] EIA       CL-2F   +20  bid 102.31 ask 102.33
+[P2 t117] sell CL   CL      -20  bid 101.41 ask 101.43
+[P2 t117] EIA       CL-2F   +20  bid 102.42 ask 102.44
+[P2 t120] hedge     CL-2F  -100  bid 102.60 ask 102.62
+[P2 t122] sell CL   CL      -20  bid 101.62 ask 101.64
+[P2 t122] hedge     CL-2F   +20  bid 102.56 ask 102.58
+[P2 t126] sell CL   CL      -20  bid 101.82 ask 101.84
+[P2 t126] hedge     CL-2F   +20  bid 102.72 ask 102.74
+[P2 t136] sell NYC  CL-NYC  -20  bid 103.72 ask 103.74
+[P2 t136] buy>NYC   CL      +10  bid 101.69 ask 101.71
+[P2 t136] ship NYC buy  CS-NYC-PIPE #584 edge +0.548 pipe $14,000 arrives t166
+[P2 t136] buy>NYC   CL      +10  bid 101.69 ask 101.71
+[P2 t136] ship NYC buy  CS-NYC-PIPE #585 edge +0.548 pipe $14,000 arrives t166
+[P2 t137] sell NYC  CL-NYC  -20  bid 103.65 ask 103.67
+[P2 t137] buy>NYC   CL      +10  bid 101.62 ask 101.64
+[P2 t137] ship NYC buy  CS-NYC-PIPE #589 edge +0.548 pipe $14,000 arrives t167
+[P2 t137] buy>NYC   CL      +10  bid 101.62 ask 101.64
+[P2 t137] ship NYC buy  CS-NYC-PIPE #590 edge +0.548 pipe $14,000 arrives t167
+[P2 t138] sell NYC  CL-NYC  -20  bid 103.66 ask 103.68
+[P2 t138] buy>NYC   CL      +10  bid 101.60 ask 101.62
+[P2 t138] ship NYC buy  CS-NYC-PIPE #592 edge +0.571 pipe $14,000 arrives t168
+[P2 t138] buy>NYC   CL      +10  bid 101.60 ask 101.62
+[P2 t138] ship NYC buy  CS-NYC-PIPE #593 edge +0.571 pipe $14,000 arrives t168
+[P2 t139] sell NYC  CL-NYC  -20  bid 103.65 ask 103.67
+[P2 t139] buy>NYC   CL      +10  bid 101.60 ask 101.62
+[P2 t139] ship NYC buy  CS-NYC-PIPE #594 edge +0.564 pipe $14,000 arrives t169
+[P2 t139] buy>NYC   CL      +10  bid 101.60 ask 101.62
+[P2 t139] ship NYC buy  CS-NYC-PIPE #595 edge +0.564 pipe $14,000 arrives t169
+[P2 t140] sell NYC  CL-NYC  -20  bid 103.70 ask 103.72
+[P2 t140] buy>NYC   CL      +10  bid 101.64 ask 101.66
+[P2 t140] ship NYC buy  CS-NYC-PIPE #596 edge +0.571 pipe $14,000 arrives t170
+[P2 t140] buy>NYC   CL      +10  bid 101.64 ask 101.66
+[P2 t140] ship NYC buy  CS-NYC-PIPE #597 edge +0.571 pipe $14,000 arrives t170
+[P2 t142] release  CL-STORAGE #518 storage
+[P2 t142] release  CL-STORAGE #532 storage
+[P2 t142] release  CL-STORAGE #533 storage
+[P2 t162] release  NYC-STORAGE #577 storage
+[P2 t162] release  NYC-STORAGE #578 storage
+[P2 t166] sell NYC  CL-NYC  -20  bid 103.22 ask 103.24
+[P2 t166] buy>NYC   CL      +10  bid 101.18 ask 101.20
+[P2 t166] ship NYC buy  CS-NYC-PIPE #623 edge +0.556 pipe $14,000 arrives t196
+[P2 t166] buy>NYC   CL      +10  bid 101.18 ask 101.20
+[P2 t166] ship NYC buy  CS-NYC-PIPE #624 edge +0.556 pipe $14,000 arrives t196
+[P2 t167] sell NYC  CL-NYC  -20  bid 103.20 ask 103.22
+[P2 t167] buy>NYC   CL      +10  bid 101.12 ask 101.14
+[P2 t167] ship NYC buy  CS-NYC-PIPE #626 edge +0.588 pipe $14,000 arrives t197
+[P2 t167] buy>NYC   CL      +10  bid 101.12 ask 101.14
+[P2 t167] ship NYC buy  CS-NYC-PIPE #627 edge +0.588 pipe $14,000 arrives t197
+[P2 t168] news S&P 500 FALLS 2% AMID FURTHER EU DOWNGRADES
+[P2 t168] sell NYC  CL-NYC  -20  bid 103.10 ask 103.12
+[P2 t168] buy>NYC   CL      +10  bid 101.04 ask 101.06
+[P2 t168] ship NYC buy  CS-NYC-PIPE #632 edge +0.572 pipe $14,000 arrives t198
+[P2 t168] buy>NYC   CL      +10  bid 101.04 ask 101.06
+[P2 t168] ship NYC buy  CS-NYC-PIPE #633 edge +0.572 pipe $14,000 arrives t198
+[P2 t169] sell NYC  CL-NYC  -20  bid 103.14 ask 103.16
+[P2 t169] buy>NYC   CL      +10  bid 101.07 ask 101.09
+[P2 t169] ship NYC buy  CS-NYC-PIPE #635 edge +0.580 pipe $14,000 arrives t199
+[P2 t169] buy>NYC   CL      +10  bid 101.07 ask 101.09
+[P2 t169] ship NYC buy  CS-NYC-PIPE #636 edge +0.580 pipe $14,000 arrives t199
+[P2 t170] sell NYC  CL-NYC  -20  bid 103.15 ask 103.17
+[P2 t170] buy>NYC   CL      +10  bid 101.07 ask 101.09
+[P2 t170] ship NYC buy  CS-NYC-PIPE #637 edge +0.588 pipe $14,000 arrives t200
+[P2 t170] buy>NYC   CL      +10  bid 101.07 ask 101.09
+[P2 t170] ship NYC buy  CS-NYC-PIPE #638 edge +0.588 pipe $14,000 arrives t200
+[P2 t193] release  NYC-STORAGE #579 storage
+[P2 t193] release  NYC-STORAGE #580 storage
+[P2 t196] sell NYC  CL-NYC  -20  bid 102.84 ask 102.86
+[P2 t196] buy>NYC   CL      +10  bid 100.60 ask 100.62
+[P2 t196] ship NYC buy  CS-NYC-PIPE #660 edge +0.714 pipe $14,000 arrives t226
+[P2 t196] buy>NYC   CL      +10  bid 100.60 ask 100.62
+[P2 t196] ship NYC buy  CS-NYC-PIPE #661 edge +0.714 pipe $14,000 arrives t226
+[P2 t197] sell NYC  CL-NYC  -20  bid 102.87 ask 102.89
+[P2 t197] buy>NYC   CL      +10  bid 100.61 ask 100.63
+[P2 t197] ship NYC buy  CS-NYC-PIPE #662 edge +0.729 pipe $14,000 arrives t227
+[P2 t197] buy>NYC   CL      +10  bid 100.61 ask 100.63
+[P2 t197] ship NYC buy  CS-NYC-PIPE #663 edge +0.729 pipe $14,000 arrives t227
+[P2 t198] sell NYC  CL-NYC  -20  bid 102.82 ask 102.84
+[P2 t198] buy>NYC   CL      +10  bid 100.59 ask 100.61
+[P2 t198] ship NYC buy  CS-NYC-PIPE #665 edge +0.706 pipe $14,000 arrives t228
+[P2 t198] buy>NYC   CL      +10  bid 100.59 ask 100.61
+[P2 t198] ship NYC buy  CS-NYC-PIPE #666 edge +0.706 pipe $14,000 arrives t228
+[P2 t199] sell NYC  CL-NYC  -20  bid 102.89 ask 102.91
+[P2 t199] buy>NYC   CL      +10  bid 100.67 ask 100.69
+[P2 t199] ship NYC buy  CS-NYC-PIPE #671 edge +0.698 pipe $14,000 arrives t229
+[P2 t199] buy>NYC   CL      +10  bid 100.67 ask 100.69
+[P2 t199] ship NYC buy  CS-NYC-PIPE #672 edge +0.698 pipe $14,000 arrives t229
+[P2 t200] sell NYC  CL-NYC  -20  bid 102.86 ask 102.88
+[P2 t200] buy>NYC   CL      +10  bid 100.65 ask 100.67
+[P2 t200] ship NYC buy  CS-NYC-PIPE #674 edge +0.691 pipe $14,000 arrives t230
+[P2 t200] buy>NYC   CL      +10  bid 100.65 ask 100.67
+[P2 t200] ship NYC buy  CS-NYC-PIPE #675 edge +0.691 pipe $14,000 arrives t230
+[P2 t217] NEWS PIPELINE COST FOR ALASKA TO CUSHING GOING DOWN TO $34,000 PER LEASE.
+[P2 t218] hedge     CL-2F   -20  bid 100.83 ask 100.85
+[P2 t218] buy>AK    CL-AK   +10  bid 96.60 ask 96.62
+[P2 t218] ship AK  buy  AK-CS-PIPE #681 edge +0.198 pipe $34,000 arrives t248
+[P2 t218] buy>AK    CL-AK   +10  bid 96.60 ask 96.62
+[P2 t218] ship AK  buy  AK-CS-PIPE #682 edge +0.198 pipe $34,000 arrives t248
+[P2 t219] hedge     CL-2F   -20  bid 100.74 ask 100.76
+[P2 t219] buy>AK    CL-AK   +10  bid 96.48 ask 96.50
+[P2 t219] ship AK  buy  AK-CS-PIPE #692 edge +0.248 pipe $34,000 arrives t249
+[P2 t219] buy>AK    CL-AK   +10  bid 96.48 ask 96.50
+[P2 t219] ship AK  buy  AK-CS-PIPE #693 edge +0.248 pipe $34,000 arrives t249
+[P2 t220] hedge     CL-2F   -20  bid 100.72 ask 100.74
+[P2 t220] buy>AK    CL-AK   +10  bid 96.46 ask 96.48
+[P2 t220] ship AK  buy  AK-CS-PIPE #694 edge +0.228 pipe $34,000 arrives t250
+[P2 t220] buy>AK    CL-AK   +10  bid 96.46 ask 96.48
+[P2 t220] ship AK  buy  AK-CS-PIPE #695 edge +0.228 pipe $34,000 arrives t250
+[P2 t221] hedge     CL-2F   -20  bid 100.64 ask 100.66
+[P2 t221] buy>AK    CL-AK   +10  bid 96.41 ask 96.43
+[P2 t221] ship AK  buy  AK-CS-PIPE #705 edge +0.218 pipe $34,000 arrives t251
+[P2 t221] buy>AK    CL-AK   +10  bid 96.41 ask 96.43
+[P2 t221] ship AK  buy  AK-CS-PIPE #706 edge +0.218 pipe $34,000 arrives t251
+[P2 t222] hedge     CL-2F   -20  bid 100.70 ask 100.72
+[P2 t222] buy>AK    CL-AK   +10  bid 96.50 ask 96.52
+[P2 t222] ship AK  buy  AK-CS-PIPE #707 edge +0.208 pipe $34,000 arrives t252
+[P2 t222] buy>AK    CL-AK   +10  bid 96.50 ask 96.52
+[P2 t222] ship AK  buy  AK-CS-PIPE #708 edge +0.208 pipe $34,000 arrives t252
+[P2 t223] release  NYC-STORAGE #621 storage
+[P2 t223] release  NYC-STORAGE #622 storage
+[P2 t226] sell NYC  CL-NYC  -20  bid 102.26 ask 102.28
+[P2 t226] buy>NYC   CL      +10  bid 100.02 ask 100.04
+[P2 t226] ship NYC buy  CS-NYC-PIPE #711 edge +0.715 pipe $14,000 arrives t256
+[P2 t226] buy>NYC   CL      +10  bid 100.02 ask 100.04
+[P2 t226] ship NYC buy  CS-NYC-PIPE #712 edge +0.715 pipe $14,000 arrives t256
+[P2 t227] sell NYC  CL-NYC  -20  bid 102.23 ask 102.25
+[P2 t227] buy>NYC   CL      +10  bid 100.01 ask 100.03
+[P2 t227] ship NYC buy  CS-NYC-PIPE #713 edge +0.700 pipe $14,000 arrives t257
+[P2 t227] buy>NYC   CL      +10  bid 100.01 ask 100.03
+[P2 t227] ship NYC buy  CS-NYC-PIPE #714 edge +0.700 pipe $14,000 arrives t257
+[P2 t228] sell NYC  CL-NYC  -20  bid 102.17 ask 102.19
+[P2 t228] buy>NYC   CL      +10  bid 99.95 ask 99.97
+[P2 t228] ship NYC buy  CS-NYC-PIPE #715 edge +0.700 pipe $14,000 arrives t258
+[P2 t228] buy>NYC   CL      +10  bid 99.95 ask 99.97
+[P2 t228] ship NYC buy  CS-NYC-PIPE #716 edge +0.700 pipe $14,000 arrives t258
+[P2 t229] sell NYC  CL-NYC  -20  bid 102.14 ask 102.16
+[P2 t229] buy>NYC   CL      +10  bid 99.92 ask 99.94
+[P2 t229] ship NYC buy  CS-NYC-PIPE #719 edge +0.700 pipe $14,000 arrives t259
+[P2 t229] buy>NYC   CL      +10  bid 99.92 ask 99.94
+[P2 t229] ship NYC buy  CS-NYC-PIPE #720 edge +0.700 pipe $14,000 arrives t259
+[P2 t230] sell NYC  CL-NYC  -20  bid 102.14 ask 102.16
+[P2 t230] buy>NYC   CL      +10  bid 99.91 ask 99.93
+[P2 t230] ship NYC buy  CS-NYC-PIPE #726 edge +0.708 pipe $14,000 arrives t260
+[P2 t230] buy>NYC   CL      +10  bid 99.91 ask 99.93
+[P2 t230] ship NYC buy  CS-NYC-PIPE #727 edge +0.708 pipe $14,000 arrives t260
+[P2 t240] EIA week 6 move -0.60 -> CRUDE net -100 until t270
+[P2 t240] EIA       CL-2F  -100  bid 100.36 ask 100.38
+[P2 t246] release  AK-STORAGE #680 storage
+[P2 t247] news REPAIRS TO IMPERIAL OIL REFINERY
+[P2 t248] room      CL-2F   +20  bid 100.21 ask 100.23
+[P2 t248] sell CL   CL      -20  bid 99.74 ask 99.76
+[P2 t248] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P2 t248] ship AK  buy  AK-CS-PIPE #748 edge +0.358 pipe $34,000 arrives t278
+[P2 t248] buy>AK    CL-AK   +10  bid 95.91 ask 95.93
+[P2 t248] ship AK  buy  AK-CS-PIPE #749 edge +0.358 pipe $34,000 arrives t278
+[P2 t248] EIA       CL-2F   -20  bid 100.21 ask 100.23
+[P2 t249] room      CL-2F   +20  bid 100.18 ask 100.20
+[P2 t249] sell CL   CL      -20  bid 99.72 ask 99.74
+[P2 t249] buy>AK    CL-AK   +10  bid 95.88 ask 95.90
+[P2 t249] ship AK  buy  AK-CS-PIPE #756 edge +0.368 pipe $34,000 arrives t279
+[P2 t249] buy>AK    CL-AK   +10  bid 95.88 ask 95.90
+[P2 t249] ship AK  buy  AK-CS-PIPE #757 edge +0.368 pipe $34,000 arrives t279
+[P2 t249] EIA       CL-2F   -20  bid 100.18 ask 100.20
+[P2 t250] room      CL-2F   +20  bid 100.19 ask 100.21
+[P2 t250] sell CL   CL      -20  bid 99.72 ask 99.74
+[P2 t250] buy>AK    CL-AK   +10  bid 95.87 ask 95.89
+[P2 t250] ship AK  buy  AK-CS-PIPE #758 edge +0.378 pipe $34,000 arrives t280
+[P2 t250] buy>AK    CL-AK   +10  bid 95.87 ask 95.89
+[P2 t250] ship AK  buy  AK-CS-PIPE #759 edge +0.378 pipe $34,000 arrives t280
+[P2 t250] EIA       CL-2F   -20  bid 100.19 ask 100.21
+[P2 t251] room      CL-2F   +20  bid 100.19 ask 100.21
+[P2 t251] sell CL   CL      -20  bid 99.70 ask 99.72
+[P2 t251] buy>AK    CL-AK   +10  bid 95.84 ask 95.86
+[P2 t251] ship AK  buy  AK-CS-PIPE #769 edge +0.388 pipe $34,000 arrives t281
+[P2 t251] buy>AK    CL-AK   +10  bid 95.84 ask 95.86
+[P2 t251] ship AK  buy  AK-CS-PIPE #770 edge +0.388 pipe $34,000 arrives t281
+[P2 t251] EIA       CL-2F   -20  bid 100.19 ask 100.21
+[P2 t252] room      CL-2F   +20  bid 100.18 ask 100.20
+[P2 t252] sell CL   CL      -20  bid 99.70 ask 99.72
+[P2 t252] buy>AK    CL-AK   +10  bid 95.85 ask 95.87
+[P2 t252] ship AK  buy  AK-CS-PIPE #771 edge +0.378 pipe $34,000 arrives t282
+[P2 t252] buy>AK    CL-AK   +10  bid 95.85 ask 95.87
+[P2 t252] ship AK  buy  AK-CS-PIPE #772 edge +0.378 pipe $34,000 arrives t282
+[P2 t252] EIA       CL-2F   -20  bid 100.18 ask 100.20
+[P2 t253] release  NYC-STORAGE #658 storage
+[P2 t253] release  NYC-STORAGE #659 storage
+[P2 t256] room      CL-2F   +20  bid 99.99 ask 100.01
+[P2 t256] sell NYC  CL-NYC  -20  bid 101.69 ask 101.71
+[P2 t256] buy>NYC   CL      +10  bid 99.53 ask 99.55
+[P2 t256] ship NYC buy  CS-NYC-PIPE #784 edge +0.654 pipe $14,000 arrives t286
+[P2 t256] buy>NYC   CL      +10  bid 99.53 ask 99.55
+[P2 t256] ship NYC buy  CS-NYC-PIPE #785 edge +0.654 pipe $14,000 arrives t286
+[P2 t256] EIA       CL-2F   -20  bid 99.99 ask 100.01
+[P2 t257] room      CL-2F   +20  bid 99.96 ask 99.98
+[P2 t257] sell NYC  CL-NYC  -20  bid 101.71 ask 101.73
+[P2 t257] buy>NYC   CL      +10  bid 99.52 ask 99.54
+[P2 t257] ship NYC buy  CS-NYC-PIPE #786 edge +0.678 pipe $14,000 arrives t287
+[P2 t257] buy>NYC   CL      +10  bid 99.52 ask 99.54
+[P2 t257] ship NYC buy  CS-NYC-PIPE #787 edge +0.678 pipe $14,000 arrives t287
+[P2 t257] EIA       CL-2F   -20  bid 99.96 ask 99.98
+[P2 t258] room      CL-2F   +20  bid 99.88 ask 99.90
+[P2 t258] sell NYC  CL-NYC  -20  bid 101.66 ask 101.68
+[P2 t258] buy>NYC   CL      +10  bid 99.48 ask 99.50
+[P2 t258] ship NYC buy  CS-NYC-PIPE #788 edge +0.670 pipe $14,000 arrives t288
+[P2 t258] buy>NYC   CL      +10  bid 99.48 ask 99.50
+[P2 t258] ship NYC buy  CS-NYC-PIPE #789 edge +0.670 pipe $14,000 arrives t288
+[P2 t258] EIA       CL-2F   -20  bid 99.88 ask 99.90
+[P2 t259] room      CL-2F   +20  bid 99.93 ask 99.95
+[P2 t259] sell NYC  CL-NYC  -20  bid 101.67 ask 101.69
+[P2 t259] buy>NYC   CL      +10  bid 99.52 ask 99.54
+[P2 t259] ship NYC buy  CS-NYC-PIPE #790 edge +0.647 pipe $14,000 arrives t289
+[P2 t259] buy>NYC   CL      +10  bid 99.52 ask 99.54
+[P2 t259] ship NYC buy  CS-NYC-PIPE #791 edge +0.647 pipe $14,000 arrives t289
+[P2 t259] EIA       CL-2F   -20  bid 99.93 ask 99.95
+[P2 t260] room      CL-2F   +20  bid 99.89 ask 99.91
+[P2 t260] sell NYC  CL-NYC  -20  bid 101.71 ask 101.73
+[P2 t260] buy>NYC   CL      +10  bid 99.54 ask 99.56
+[P2 t260] ship NYC buy  CS-NYC-PIPE #792 edge +0.662 pipe $14,000 arrives t290
+[P2 t260] buy>NYC   CL      +10  bid 99.54 ask 99.56
+[P2 t260] ship NYC buy  CS-NYC-PIPE #793 edge +0.662 pipe $14,000 arrives t290
+[P2 t260] EIA       CL-2F   -20  bid 99.89 ask 99.91
+[P2 t262] release  CL-STORAGE #558 storage
+[P2 t270] hedge     CL-2F  +100  bid 99.57 ask 99.59
+[P2 t274] release  CL-STORAGE #742 storage
+[P2 t276] release  AK-STORAGE #747 storage
+[P2 t278] sell CL   CL      -20  bid 99.18 ask 99.20
+[P2 t278] buy>AK    CL-AK   +10  bid 95.24 ask 95.26
+[P2 t278] ship AK  buy  AK-CS-PIPE #841 edge +0.468 pipe $34,000 arrives t308
+[P2 t278] buy>AK    CL-AK   +10  bid 95.24 ask 95.26
+[P2 t278] ship AK  buy  AK-CS-PIPE #842 edge +0.468 pipe $34,000 arrives t308
+[P2 t279] sell CL   CL      -20  bid 99.27 ask 99.29
+[P2 t279] buy>AK    CL-AK   +10  bid 95.31 ask 95.33
+[P2 t279] ship AK  buy  AK-CS-PIPE #852 edge +0.488 pipe $34,000 arrives t309
+[P2 t279] buy>AK    CL-AK   +10  bid 95.31 ask 95.33
+[P2 t279] ship AK  buy  AK-CS-PIPE #853 edge +0.488 pipe $34,000 arrives t309
+[P2 t280] sell CL   CL      -20  bid 99.24 ask 99.26
+[P2 t280] buy>AK    CL-AK   +10  bid 95.29 ask 95.31
+[P2 t280] ship AK  buy  AK-CS-PIPE #854 edge +0.478 pipe $34,000 arrives t310
+[P2 t280] buy>AK    CL-AK   +10  bid 95.29 ask 95.31
+[P2 t280] ship AK  buy  AK-CS-PIPE #855 edge +0.478 pipe $34,000 arrives t310
+[P2 t281] sell CL   CL      -20  bid 99.31 ask 99.33
+[P2 t281] buy>AK    CL-AK   +10  bid 95.36 ask 95.38
+[P2 t281] ship AK  buy  AK-CS-PIPE #865 edge +0.478 pipe $34,000 arrives t311
+[P2 t281] buy>AK    CL-AK   +10  bid 95.36 ask 95.38
+[P2 t281] ship AK  buy  AK-CS-PIPE #866 edge +0.478 pipe $34,000 arrives t311
+[P2 t282] sell CL   CL      -20  bid 99.31 ask 99.33
+[P2 t282] buy>AK    CL-AK   +10  bid 95.34 ask 95.36
+[P2 t282] ship AK  buy  AK-CS-PIPE #867 edge +0.498 pipe $34,000 arrives t312
+[P2 t282] buy>AK    CL-AK   +10  bid 95.34 ask 95.36
+[P2 t282] ship AK  buy  AK-CS-PIPE #868 edge +0.498 pipe $34,000 arrives t312
+[P2 t283] release  NYC-STORAGE #709 storage
+[P2 t283] release  NYC-STORAGE #710 storage
+[P2 t285] NEWS PIPELINE COST FOR CUSHING TO NYC BACK TO $20000 PER LEASE.
+[P2 t286] sell NYC  CL-NYC  -20  bid 101.33 ask 101.35
+[P2 t286] hedge     CL-2F   +20  bid 99.79 ask 99.81
+[P2 t287] sell NYC  CL-NYC  -20  bid 101.41 ask 101.43
+[P2 t287] hedge     CL-2F   +20  bid 99.87 ask 99.89
+[P2 t288] sell NYC  CL-NYC  -20  bid 101.42 ask 101.44
+[P2 t288] hedge     CL-2F   +20  bid 99.92 ask 99.94
+[P2 t289] sell NYC  CL-NYC  -20  bid 101.44 ask 101.46
+[P2 t289] hedge     CL-2F   +20  bid 99.93 ask 99.95
+[P2 t290] sell NYC  CL-NYC  -20  bid 101.39 ask 101.41
+[P2 t290] hedge     CL-2F   +20  bid 99.89 ask 99.91
+[P2 t305] release  CL-STORAGE #744 storage
+[P2 t305] release  CL-STORAGE #745 storage
+[P2 t306] release  AK-STORAGE #840 storage
+[P2 t308] sell CL   CL      -20  bid 100.11 ask 100.13
+[P2 t308] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P2 t308] ship AK  buy  AK-CS-PIPE #895 edge +0.488 pipe $34,000 arrives t338
+[P2 t308] buy>AK    CL-AK   +10  bid 96.15 ask 96.17
+[P2 t308] ship AK  buy  AK-CS-PIPE #896 edge +0.488 pipe $34,000 arrives t338
+[P2 t309] sell CL   CL      -20  bid 100.20 ask 100.22
+[P2 t309] buy>AK    CL-AK   +10  bid 96.27 ask 96.29
+[P2 t309] ship AK  buy  AK-CS-PIPE #903 edge +0.458 pipe $34,000 arrives t339
+[P2 t309] buy>AK    CL-AK   +10  bid 96.27 ask 96.29
+[P2 t309] ship AK  buy  AK-CS-PIPE #904 edge +0.458 pipe $34,000 arrives t339
+[P2 t310] sell CL   CL      -20  bid 100.23 ask 100.25
+[P2 t310] buy>AK    CL-AK   +10  bid 96.29 ask 96.31
+[P2 t310] ship AK  buy  AK-CS-PIPE #905 edge +0.468 pipe $34,000 arrives t340
+[P2 t310] buy>AK    CL-AK   +10  bid 96.29 ask 96.31
+[P2 t310] ship AK  buy  AK-CS-PIPE #906 edge +0.468 pipe $34,000 arrives t340
+[P2 t311] sell CL   CL      -20  bid 100.14 ask 100.16
+[P2 t311] buy>AK    CL-AK   +10  bid 96.19 ask 96.21
+[P2 t311] ship AK  buy  AK-CS-PIPE #907 edge +0.478 pipe $34,000 arrives t341
+[P2 t311] buy>AK    CL-AK   +10  bid 96.19 ask 96.21
+[P2 t311] ship AK  buy  AK-CS-PIPE #908 edge +0.478 pipe $34,000 arrives t341
+[P2 t311] refinery  CL      +30  bid 100.14 ask 100.16
+[P2 t311] REFINERY batch #909 crack $342,600 exp profit $42,510 done t356
+[P2 t312] sell CL   CL      -20  bid 100.16 ask 100.18
+[P2 t312] buy>AK    CL-AK   +10  bid 96.22 ask 96.24
+[P2 t312] ship AK  buy  AK-CS-PIPE #910 edge +0.468 pipe $34,000 arrives t342
+[P2 t312] buy>AK    CL-AK   +10  bid 96.22 ask 96.24
+[P2 t312] ship AK  buy  AK-CS-PIPE #911 edge +0.468 pipe $34,000 arrives t342
+[P2 t313] release  NYC-STORAGE #782 storage
+[P2 t313] release  NYC-STORAGE #783 storage
+[P2 t313] release  NYC-STORAGE #878 storage
+[P2 t313] release  NYC-STORAGE #879 storage
+[P2 t318] NEWS FIRST TRANSPORT FOR NEW CANADA-US PIPELINE
+[P2 t331] hedge     CL-2F   -20  bid 100.20 ask 100.22
+[P2 t331] buy>NYC   CL      +10  bid 99.68 ask 99.70
+[P2 t331] ship NYC buy  CS-NYC-PIPE #956 edge +0.102 pipe $20,000 arrives t361
+[P2 t331] buy>NYC   CL      +10  bid 99.68 ask 99.70
+[P2 t331] ship NYC buy  CS-NYC-PIPE #957 edge +0.102 pipe $20,000 arrives t361
+[P2 t332] hedge     CL-2F   -20  bid 100.31 ask 100.33
+[P2 t332] buy>NYC   CL      +10  bid 99.75 ask 99.77
+[P2 t332] ship NYC buy  CS-NYC-PIPE #958 edge +0.118 pipe $20,000 arrives t362
+[P2 t332] buy>NYC   CL      +10  bid 99.75 ask 99.77
+[P2 t332] ship NYC buy  CS-NYC-PIPE #959 edge +0.118 pipe $20,000 arrives t362
+[P2 t333] hedge     CL-2F   -20  bid 100.27 ask 100.29
+[P2 t333] buy>NYC   CL      +10  bid 99.74 ask 99.76
+[P2 t333] ship NYC buy  CS-NYC-PIPE #960 edge +0.134 pipe $20,000 arrives t363
+[P2 t333] buy>NYC   CL      +10  bid 99.74 ask 99.76
+[P2 t333] ship NYC buy  CS-NYC-PIPE #961 edge +0.134 pipe $20,000 arrives t363
+[P2 t334] hedge     CL-2F   -20  bid 100.16 ask 100.18
+[P2 t334] buy>NYC   CL      +10  bid 99.62 ask 99.64
+[P2 t334] ship NYC buy  CS-NYC-PIPE #962 edge +0.149 pipe $20,000 arrives t364
+[P2 t334] buy>NYC   CL      +10  bid 99.62 ask 99.64
+[P2 t334] ship NYC buy  CS-NYC-PIPE #963 edge +0.149 pipe $20,000 arrives t364
+[P2 t335] hedge     CL-2F   -20  bid 100.20 ask 100.22
+[P2 t335] buy>NYC   CL      +10  bid 99.65 ask 99.67
+[P2 t335] ship NYC buy  CS-NYC-PIPE #966 edge +0.149 pipe $20,000 arrives t365
+[P2 t335] buy>NYC   CL      +10  bid 99.65 ask 99.67
+[P2 t335] ship NYC buy  CS-NYC-PIPE #967 edge +0.149 pipe $20,000 arrives t365
+[P2 t335] release  CL-STORAGE #836 storage
+[P2 t336] release  AK-STORAGE #894 storage
+[P2 t337] news REPAIRS SUCCESSFULLY COMPLETED AT IMPERIAL OIL REFINERY
+[P2 t338] sell CL   CL      -20  bid 99.60 ask 99.62
+[P2 t338] buy>AK    CL-AK   +10  bid 95.71 ask 95.73
+[P2 t338] ship AK  buy  AK-CS-PIPE #973 edge +0.418 pipe $34,000 arrives t368
+[P2 t338] buy>AK    CL-AK   +10  bid 95.71 ask 95.73
+[P2 t338] ship AK  buy  AK-CS-PIPE #974 edge +0.418 pipe $34,000 arrives t368
+[P2 t339] sell CL   CL      -20  bid 99.68 ask 99.70
+[P2 t339] buy>AK    CL-AK   +10  bid 95.77 ask 95.79
+[P2 t339] ship AK  buy  AK-CS-PIPE #984 edge +0.438 pipe $34,000 arrives t369
+[P2 t339] buy>AK    CL-AK   +10  bid 95.77 ask 95.79
+[P2 t339] ship AK  buy  AK-CS-PIPE #985 edge +0.438 pipe $34,000 arrives t369
+[P2 t340] sell CL   CL      -20  bid 99.68 ask 99.70
+[P2 t340] buy>AK    CL-AK   +10  bid 95.74 ask 95.76
+[P2 t340] ship AK  buy  AK-CS-PIPE #986 edge +0.468 pipe $34,000 arrives t370
+[P2 t340] buy>AK    CL-AK   +10  bid 95.74 ask 95.76
+[P2 t340] ship AK  buy  AK-CS-PIPE #987 edge +0.468 pipe $34,000 arrives t370
+[P2 t341] sell CL   CL      -20  bid 99.64 ask 99.66
+[P2 t341] buy>AK    CL-AK   +10  bid 95.71 ask 95.73
+[P2 t341] ship AK  buy  AK-CS-PIPE #988 edge +0.458 pipe $34,000 arrives t371
+[P2 t341] buy>AK    CL-AK   +10  bid 95.71 ask 95.73
+[P2 t341] ship AK  buy  AK-CS-PIPE #989 edge +0.458 pipe $34,000 arrives t371
+[P2 t342] sell CL   CL      -20  bid 99.60 ask 99.62
+[P2 t342] buy>AK    CL-AK   +10  bid 95.69 ask 95.71
+[P2 t342] ship AK  buy  AK-CS-PIPE #990 edge +0.438 pipe $34,000 arrives t372
+[P2 t342] buy>AK    CL-AK   +10  bid 95.69 ask 95.71
+[P2 t342] ship AK  buy  AK-CS-PIPE #991 edge +0.438 pipe $34,000 arrives t372
+[P2 t356] sell prod HO      -10  bid 3.74 ask 3.76
+[P2 t356] sell prod RB      -20  bid 2.05 ask 2.07
+[P2 t356] release  CL-REFINERY #909 refinery unused
+[P2 t361] sell NYC  CL-NYC  -20  bid 101.23 ask 101.25
+[P2 t361] buy>NYC   CL      +10  bid 98.96 ask 98.98
+[P2 t361] ship NYC buy  CS-NYC-PIPE #1042 edge +0.143 pipe $20,000 arrives t391
+[P2 t361] buy>NYC   CL      +10  bid 98.96 ask 98.98
+[P2 t361] ship NYC buy  CS-NYC-PIPE #1043 edge +0.143 pipe $20,000 arrives t391
+[P2 t362] sell NYC  CL-NYC  -20  bid 101.18 ask 101.20
+[P2 t362] buy>NYC   CL      +10  bid 98.90 ask 98.92
+[P2 t362] ship NYC buy  CS-NYC-PIPE #1044 edge +0.151 pipe $20,000 arrives t392
+[P2 t362] buy>NYC   CL      +10  bid 98.90 ask 98.92
+[P2 t362] ship NYC buy  CS-NYC-PIPE #1045 edge +0.151 pipe $20,000 arrives t392
+[P2 t363] sell NYC  CL-NYC  -20  bid 101.16 ask 101.18
+[P2 t363] buy>NYC   CL      +10  bid 98.88 ask 98.90
+[P2 t363] ship NYC buy  CS-NYC-PIPE #1046 edge +0.151 pipe $20,000 arrives t393
+[P2 t363] buy>NYC   CL      +10  bid 98.88 ask 98.90
+[P2 t363] ship NYC buy  CS-NYC-PIPE #1047 edge +0.151 pipe $20,000 arrives t393
+[P2 t364] sell NYC  CL-NYC  -20  bid 101.06 ask 101.08
+[P2 t364] buy>NYC   CL      +10  bid 98.78 ask 98.80
+[P2 t364] ship NYC buy  CS-NYC-PIPE #1048 edge +0.151 pipe $20,000 arrives t394
+[P2 t364] buy>NYC   CL      +10  bid 98.78 ask 98.80
+[P2 t364] ship NYC buy  CS-NYC-PIPE #1049 edge +0.151 pipe $20,000 arrives t394
+[P2 t365] sell NYC  CL-NYC  -20  bid 100.97 ask 100.99
+[P2 t365] buy>NYC   CL      +10  bid 98.75 ask 98.77
+[P2 t365] ship NYC buy  CS-NYC-PIPE #1052 edge +0.104 pipe $20,000 arrives t395
+[P2 t365] buy>NYC   CL      +10  bid 98.75 ask 98.77
+[P2 t365] ship NYC buy  CS-NYC-PIPE #1053 edge +0.104 pipe $20,000 arrives t395
+[P2 t365] release  CL-STORAGE #837 storage
+[P2 t366] release  AK-STORAGE #972 storage
+[P2 t368] sell CL   CL      -20  bid 98.62 ask 98.64
+[P2 t368] buy>AK    CL-AK   +10  bid 94.61 ask 94.63
+[P2 t368] ship AK  buy  AK-CS-PIPE #1056 edge +0.538 pipe $34,000 arrives t398
+[P2 t368] buy>AK    CL-AK   +10  bid 94.61 ask 94.63
+[P2 t368] ship AK  buy  AK-CS-PIPE #1057 edge +0.538 pipe $34,000 arrives t398
+[P2 t369] sell CL   CL      -20  bid 98.68 ask 98.70
+[P2 t369] buy>AK    CL-AK   +10  bid 94.64 ask 94.66
+[P2 t369] ship AK  buy  AK-CS-PIPE #1064 edge +0.568 pipe $34,000 arrives t399
+[P2 t369] buy>AK    CL-AK   +10  bid 94.64 ask 94.66
+[P2 t369] ship AK  buy  AK-CS-PIPE #1065 edge +0.568 pipe $34,000 arrives t399
+[P2 t370] sell CL   CL      -20  bid 98.68 ask 98.70
+[P2 t370] buy>AK    CL-AK   +10  bid 94.64 ask 94.66
+[P2 t370] ship AK  buy  AK-CS-PIPE #1066 edge +0.568 pipe $34,000 arrives t400
+[P2 t370] buy>AK    CL-AK   +10  bid 94.64 ask 94.66
+[P2 t370] ship AK  buy  AK-CS-PIPE #1067 edge +0.568 pipe $34,000 arrives t400
+[P2 t371] sell CL   CL      -20  bid 98.64 ask 98.66
+[P2 t371] buy>AK    CL-AK   +10  bid 94.56 ask 94.58
+[P2 t371] ship AK  buy  AK-CS-PIPE #1068 edge +0.608 pipe $34,000 arrives t401
+[P2 t371] buy>AK    CL-AK   +10  bid 94.56 ask 94.58
+[P2 t371] ship AK  buy  AK-CS-PIPE #1069 edge +0.608 pipe $34,000 arrives t401
+[P2 t372] sell CL   CL      -20  bid 98.63 ask 98.65
+[P2 t372] buy>AK    CL-AK   +10  bid 94.52 ask 94.54
+[P2 t372] ship AK  buy  AK-CS-PIPE #1070 edge +0.638 pipe $34,000 arrives t402
+[P2 t372] buy>AK    CL-AK   +10  bid 94.52 ask 94.54
+[P2 t372] ship AK  buy  AK-CS-PIPE #1071 edge +0.638 pipe $34,000 arrives t402
+[P2 t387] release  NYC-STORAGE #1038 storage
+[P2 t387] release  NYC-STORAGE #1039 storage
+[P2 t390] EIA week 7 move -0.50 -> CRUDE net -100 until t420
+[P2 t390] EIA       CL-2F  -100  bid 98.74 ask 98.76
+[P2 t391] room      CL-2F   +20  bid 98.76 ask 98.78
+[P2 t391] sell NYC  CL-NYC  -20  bid 100.73 ask 100.75
+[P2 t391] buy>NYC   CL      +10  bid 98.43 ask 98.45
+[P2 t391] ship NYC buy  CS-NYC-PIPE #1090 edge +0.168 pipe $20,000 arrives t421
+[P2 t391] buy>NYC   CL      +10  bid 98.43 ask 98.45
+[P2 t391] ship NYC buy  CS-NYC-PIPE #1091 edge +0.168 pipe $20,000 arrives t421
+[P2 t391] EIA       CL-2F   -20  bid 98.76 ask 98.78
+[P2 t392] room      CL-2F   +20  bid 98.79 ask 98.81
+[P2 t392] sell NYC  CL-NYC  -20  bid 100.71 ask 100.73
+[P2 t392] buy>NYC   CL      +10  bid 98.42 ask 98.44
+[P2 t392] ship NYC buy  CS-NYC-PIPE #1092 edge +0.160 pipe $20,000 arrives t422
+[P2 t392] buy>NYC   CL      +10  bid 98.42 ask 98.44
+[P2 t392] ship NYC buy  CS-NYC-PIPE #1093 edge +0.160 pipe $20,000 arrives t422
+[P2 t392] EIA       CL-2F   -20  bid 98.79 ask 98.81
+[P2 t393] room      CL-2F   +20  bid 98.76 ask 98.78
+[P2 t393] sell NYC  CL-NYC  -20  bid 100.67 ask 100.69
+[P2 t393] buy>NYC   CL      +10  bid 98.38 ask 98.40
+[P2 t393] ship NYC buy  CS-NYC-PIPE #1094 edge +0.160 pipe $20,000 arrives t423
+[P2 t393] buy>NYC   CL      +10  bid 98.38 ask 98.40
+[P2 t393] ship NYC buy  CS-NYC-PIPE #1095 edge +0.160 pipe $20,000 arrives t423
+[P2 t393] EIA       CL-2F   -20  bid 98.76 ask 98.78
+[P2 t394] room      CL-2F   +20  bid 98.84 ask 98.86
+[P2 t394] sell NYC  CL-NYC  -20  bid 100.70 ask 100.72
+[P2 t394] buy>NYC   CL      +10  bid 98.44 ask 98.46
+[P2 t394] ship NYC buy  CS-NYC-PIPE #1096 edge +0.137 pipe $20,000 arrives t424
+[P2 t394] buy>NYC   CL      +10  bid 98.44 ask 98.46
+[P2 t394] ship NYC buy  CS-NYC-PIPE #1097 edge +0.137 pipe $20,000 arrives t424
+[P2 t394] EIA       CL-2F   -20  bid 98.84 ask 98.86
+[P2 t395] room      CL-2F   +20  bid 98.82 ask 98.84
+[P2 t395] sell NYC  CL-NYC  -20  bid 100.74 ask 100.76
+[P2 t395] buy>NYC   CL      +10  bid 98.45 ask 98.47
+[P2 t395] ship NYC buy  CS-NYC-PIPE #1100 edge +0.160 pipe $20,000 arrives t425
+[P2 t395] buy>NYC   CL      +10  bid 98.45 ask 98.47
+[P2 t395] ship NYC buy  CS-NYC-PIPE #1101 edge +0.160 pipe $20,000 arrives t425
+[P2 t395] EIA       CL-2F   -20  bid 98.82 ask 98.84
+[P2 t395] release  CL-STORAGE #892 storage
+[P2 t396] release  AK-STORAGE #1055 storage
+[P2 t398] NEWS PIPELINE COST FOR ALASKA TO CUSHING BACK TO $40000 PER LEASE.
+[P2 t398] room      CL-2F   +20  bid 98.63 ask 98.65
+[P2 t398] sell CL   CL      -20  bid 98.25 ask 98.27
+[P2 t398] buy>AK    CL-AK   +10  bid 94.27 ask 94.29
+[P2 t398] ship AK  buy  AK-CS-PIPE #1104 edge +0.508 pipe $34,000 arrives t428
+[P2 t398] buy>AK    CL-AK   +10  bid 94.27 ask 94.29
+[P2 t398] ship AK  buy  AK-CS-PIPE #1105 edge +0.508 pipe $34,000 arrives t428
+[P2 t398] EIA       CL-2F   -20  bid 98.63 ask 98.65
+[P2 t399] room      CL-2F   +20  bid 98.52 ask 98.54
+[P2 t399] sell CL   CL      -20  bid 98.16 ask 98.18
+[P2 t400] room      CL-2F   +20  bid 98.46 ask 98.48
+[P2 t400] sell CL   CL      -20  bid 98.11 ask 98.13
+[P2 t401] room      CL-2F   +20  bid 98.42 ask 98.44
+[P2 t401] sell CL   CL      -20  bid 98.10 ask 98.12
+[P2 t402] room      CL-2F   +20  bid 98.44 ask 98.46
+[P2 t402] sell CL   CL      -20  bid 98.12 ask 98.14
+[P2 t418] buy>AK    CL-AK   +10  bid 93.97 ask 93.99
+[P2 t418] ship AK  buy  AK-CS-PIPE #1106 edge +0.088 pipe $40,000 arrives t448
+[P2 t418] buy>AK    CL-AK   +10  bid 93.97 ask 93.99
+[P2 t418] ship AK  buy  AK-CS-PIPE #1107 edge +0.088 pipe $40,000 arrives t448
+[P2 t418] EIA       CL-2F   -20  bid 98.51 ask 98.53
+[P2 t418] release  NYC-STORAGE #1040 storage
+[P2 t418] release  NYC-STORAGE #1041 storage
+[P2 t419] buy>AK    CL-AK   +10  bid 93.95 ask 93.97
+[P2 t419] ship AK  buy  AK-CS-PIPE #1108 edge +0.068 pipe $40,000 arrives t449
+[P2 t419] buy>AK    CL-AK   +10  bid 93.95 ask 93.97
+[P2 t419] ship AK  buy  AK-CS-PIPE #1109 edge +0.068 pipe $40,000 arrives t449
+[P2 t419] EIA       CL-2F   -20  bid 98.45 ask 98.47
+[P2 t420] hedge     CL-2F   +80  bid 98.45 ask 98.47
+[P2 t420] buy>AK    CL-AK   +10  bid 93.94 ask 93.96
+[P2 t420] ship AK  buy  AK-CS-PIPE #1112 edge +0.118 pipe $40,000 arrives t450
+[P2 t420] buy>AK    CL-AK   +10  bid 93.94 ask 93.96
+[P2 t420] ship AK  buy  AK-CS-PIPE #1113 edge +0.118 pipe $40,000 arrives t450
+[P2 t421] sell NYC  CL-NYC  -20  bid 100.25 ask 100.27
+[P2 t421] buy>AK    CL-AK   +10  bid 93.95 ask 93.97
+[P2 t421] ship AK  buy  AK-CS-PIPE #1114 edge +0.118 pipe $40,000 arrives t451
+[P2 t421] buy>AK    CL-AK   +10  bid 93.95 ask 93.97
+[P2 t421] ship AK  buy  AK-CS-PIPE #1115 edge +0.118 pipe $40,000 arrives t451
+[P2 t422] sell NYC  CL-NYC  -20  bid 100.21 ask 100.23
+[P2 t422] hedge     CL-2F   +20  bid 98.45 ask 98.47
+[P2 t423] sell NYC  CL-NYC  -20  bid 100.27 ask 100.29
+[P2 t423] hedge     CL-2F   +20  bid 98.50 ask 98.52
+[P2 t424] sell NYC  CL-NYC  -20  bid 100.25 ask 100.27
+[P2 t424] hedge     CL-2F   +20  bid 98.43 ask 98.45
+[P2 t425] sell NYC  CL-NYC  -20  bid 100.17 ask 100.19
+[P2 t425] hedge     CL-2F   +20  bid 98.40 ask 98.42
+[P2 t425] release  CL-STORAGE #893 storage
+[P2 t425] release  CL-STORAGE #968 storage
+[P2 t428] ship NYC fwd  CS-NYC-PIPE #1116 edge +0.151 pipe $20,000 arrives t458
+[P2 t428] ship NYC fwd  CS-NYC-PIPE #1117 edge +0.151 pipe $20,000 arrives t458
+[P2 t428] hedge     CL-2F   -20  bid 98.28 ask 98.30
+[P2 t428] buy>AK    CL-AK   +10  bid 93.72 ask 93.74
+[P2 t428] ship AK  buy  AK-CS-PIPE #1118 edge +0.168 pipe $40,000 arrives t458
+[P2 t428] buy>AK    CL-AK   +10  bid 93.72 ask 93.74
+[P2 t428] ship AK  buy  AK-CS-PIPE #1119 edge +0.168 pipe $40,000 arrives t458
+[P2 t438] hedge     CL-2F   -20  bid 98.27 ask 98.29
+[P2 t438] buy>NYC   CL      +10  bid 97.91 ask 97.93
+[P2 t438] ship NYC buy  CS-NYC-PIPE #1147 edge +0.115 pipe $20,000 arrives t468
+[P2 t438] buy>NYC   CL      +10  bid 97.91 ask 97.93
+[P2 t438] ship NYC buy  CS-NYC-PIPE #1148 edge +0.115 pipe $20,000 arrives t468
+[P2 t448] ship NYC fwd  CS-NYC-PIPE #1152 edge +0.144 pipe $20,000 arrives t478
+[P2 t448] ship NYC fwd  CS-NYC-PIPE #1153 edge +0.144 pipe $20,000 arrives t478
+[P2 t448] hedge     CL-2F   -20  bid 98.39 ask 98.41
+[P2 t448] buy>AK    CL-AK   +10  bid 93.61 ask 93.63
+[P2 t448] ship AK  buy  AK-CS-PIPE #1154 edge +0.298 pipe $40,000 arrives t478
+[P2 t448] buy>AK    CL-AK   +10  bid 93.61 ask 93.63
+[P2 t448] ship AK  buy  AK-CS-PIPE #1155 edge +0.298 pipe $40,000 arrives t478
+[P2 t448] release  NYC-STORAGE #1088 storage
+[P2 t448] release  NYC-STORAGE #1089 storage
+[P2 t448] release  NYC-STORAGE #1110 storage
+[P2 t448] release  NYC-STORAGE #1111 storage
+[P2 t449] ship NYC fwd  CS-NYC-PIPE #1156 edge +0.160 pipe $20,000 arrives t479
+[P2 t449] ship NYC fwd  CS-NYC-PIPE #1157 edge +0.160 pipe $20,000 arrives t479
+[P2 t449] hedge     CL-2F   -20  bid 98.75 ask 98.77
+[P2 t449] buy>AK    CL-AK   +10  bid 93.59 ask 93.61
+[P2 t449] ship AK  buy  AK-CS-PIPE #1158 edge +0.308 pipe $40,000 arrives t479
+[P2 t449] buy>AK    CL-AK   +10  bid 93.59 ask 93.61
+[P2 t449] ship AK  buy  AK-CS-PIPE #1159 edge +0.308 pipe $40,000 arrives t479
+[P2 t450] ship NYC fwd  CS-NYC-PIPE #1163 edge +0.144 pipe $20,000 arrives t480
+[P2 t450] ship NYC fwd  CS-NYC-PIPE #1164 edge +0.144 pipe $20,000 arrives t480
+[P2 t450] hedge     CL-2F   -20  bid 98.71 ask 98.73
+[P2 t450] buy>AK    CL-AK   +10  bid 93.63 ask 93.65
+[P2 t450] ship AK  buy  AK-CS-PIPE #1165 edge +0.268 pipe $40,000 arrives t480
+[P2 t450] buy>AK    CL-AK   +10  bid 93.63 ask 93.65
+[P2 t450] ship AK  buy  AK-CS-PIPE #1166 edge +0.268 pipe $40,000 arrives t480
+[P2 t451] sell CL   CL      -20  bid 97.98 ask 98.00
+[P2 t451] buy>AK    CL-AK   +10  bid 93.64 ask 93.66
+[P2 t451] ship AK  buy  AK-CS-PIPE #1173 edge +0.268 pipe $40,000 arrives t481
+[P2 t451] buy>AK    CL-AK   +10  bid 93.64 ask 93.66
+[P2 t451] ship AK  buy  AK-CS-PIPE #1174 edge +0.268 pipe $40,000 arrives t481
+[P2 t455] release  CL-STORAGE #1054 storage
+[P2 t458] sell NYC  CL-NYC  -20  bid 99.90 ask 99.92
+[P2 t458] ship NYC fwd  CS-NYC-PIPE #1177 edge +0.144 pipe $20,000 arrives t488
+[P2 t458] ship NYC fwd  CS-NYC-PIPE #1178 edge +0.144 pipe $20,000 arrives t488
+[P2 t458] buy>AK    CL-AK   +10  bid 93.32 ask 93.34
+[P2 t458] ship AK  buy  AK-CS-PIPE #1179 edge +0.308 pipe $40,000 arrives t488
+[P2 t458] buy>AK    CL-AK   +10  bid 93.32 ask 93.34
+[P2 t458] ship AK  buy  AK-CS-PIPE #1180 edge +0.308 pipe $40,000 arrives t488
+[P2 t468] sell NYC  CL-NYC  -20  bid 99.80 ask 99.82
+[P2 t468] hedge     CL-2F   +20  bid 98.35 ask 98.37
+[P2 t475] release  CL-STORAGE #1150 storage
+[P2 t478] sell NYC  CL-NYC  -20  bid 99.83 ask 99.85
+[P2 t478] ship NYC fwd  CS-NYC-PIPE #1185 edge +0.012 pipe $20,000 arrives t508
+[P2 t478] ship NYC fwd  CS-NYC-PIPE #1186 edge +0.012 pipe $20,000 arrives t508
+[P2 t478] buy>AK    CL-AK   +10  bid 93.34 ask 93.36
+[P2 t478] ship AK  buy  AK-CS-PIPE #1187 edge +0.388 pipe $40,000 arrives t508
+[P2 t478] buy>AK    CL-AK   +10  bid 93.34 ask 93.36
+[P2 t478] ship AK  buy  AK-CS-PIPE #1188 edge +0.388 pipe $40,000 arrives t508
+[P2 t479] sell NYC  CL-NYC  -20  bid 99.93 ask 99.95
+[P2 t479] ship NYC fwd  CS-NYC-PIPE #1189 edge +0.012 pipe $20,000 arrives t509
+[P2 t479] ship NYC fwd  CS-NYC-PIPE #1190 edge +0.012 pipe $20,000 arrives t509
+[P2 t479] buy>AK    CL-AK   +10  bid 93.40 ask 93.42
+[P2 t479] ship AK  buy  AK-CS-PIPE #1191 edge +0.428 pipe $40,000 arrives t509
+[P2 t479] buy>AK    CL-AK   +10  bid 93.40 ask 93.42
+[P2 t479] ship AK  buy  AK-CS-PIPE #1192 edge +0.428 pipe $40,000 arrives t509
+[P2 t480] news ECONOMISTS CONCERNED BY A RISE IN CONSUMER PRICES
+[P2 t480] sell NYC  CL-NYC  -20  bid 99.88 ask 99.90
+[P2 t480] sell CL   CL      -20  bid 97.88 ask 97.90
+[P2 t480] hedge     CL-2F   +20  bid 98.14 ask 98.16
+[P2 t480] buy>AK    CL-AK   +10  bid 93.38 ask 93.40
+[P2 t480] ship AK  buy  AK-CS-PIPE #1193 edge +0.428 pipe $40,000 arrives t510
+[P2 t480] buy>AK    CL-AK   +10  bid 93.38 ask 93.40
+[P2 t480] ship AK  buy  AK-CS-PIPE #1194 edge +0.428 pipe $40,000 arrives t510
+[P2 t481] sell CL   CL      -20  bid 97.86 ask 97.88
+[P2 t481] buy>AK    CL-AK   +10  bid 93.37 ask 93.39
+[P2 t481] ship AK  buy  AK-CS-PIPE #1195 edge +0.418 pipe $40,000 arrives t511
+[P2 t481] buy>AK    CL-AK   +10  bid 93.37 ask 93.39
+[P2 t481] ship AK  buy  AK-CS-PIPE #1196 edge +0.418 pipe $40,000 arrives t511
+[P2 t484] release  NYC-STORAGE #1175 storage
+[P2 t484] release  NYC-STORAGE #1176 storage
+[P2 t485] release  CL-STORAGE #1102 storage
+[P2 t488] sell NYC  CL-NYC  -20  bid 99.72 ask 99.74
+[P2 t488] sell CL   CL      -20  bid 97.78 ask 97.80
+[P2 t488] hedge     CL-2F   +20  bid 98.00 ask 98.02
+[P2 t488] buy>AK    CL-AK   +10  bid 93.34 ask 93.36
+[P2 t488] ship AK  buy  AK-CS-PIPE #1198 edge +0.368 pipe $40,000 arrives t518
+[P2 t488] buy>AK    CL-AK   +10  bid 93.34 ask 93.36
+[P2 t488] ship AK  buy  AK-CS-PIPE #1199 edge +0.368 pipe $40,000 arrives t518
+[P2 t505] release  CL-STORAGE #1151 storage
+[P2 t508] sell NYC  CL-NYC  -20  bid 99.77 ask 99.79
+[P2 t508] sell CL   CL      -20  bid 97.84 ask 97.86
+[P2 t508] hedge     CL-2F   +20  bid 98.18 ask 98.20
+[P2 t508] buy>AK    CL-AK   +10  bid 93.48 ask 93.50
+[P2 t508] ship AK  buy  AK-CS-PIPE #1204 edge +0.288 pipe $40,000 arrives t538
+[P2 t508] buy>AK    CL-AK   +10  bid 93.48 ask 93.50
+[P2 t508] ship AK  buy  AK-CS-PIPE #1205 edge +0.288 pipe $40,000 arrives t538
+[P2 t509] sell NYC  CL-NYC  -20  bid 99.73 ask 99.75
+[P2 t509] sell CL   CL      -20  bid 97.83 ask 97.85
+[P2 t509] hedge     CL-2F   +20  bid 98.17 ask 98.19
+[P2 t509] buy>AK    CL-AK   +10  bid 93.44 ask 93.46
+[P2 t509] ship AK  buy  AK-CS-PIPE #1206 edge +0.318 pipe $40,000 arrives t539
+[P2 t509] buy>AK    CL-AK   +10  bid 93.44 ask 93.46
+[P2 t509] ship AK  buy  AK-CS-PIPE #1207 edge +0.318 pipe $40,000 arrives t539
+[P2 t510] sell CL   CL      -20  bid 97.85 ask 97.87
+[P2 t510] buy>AK    CL-AK   +10  bid 93.49 ask 93.51
+[P2 t510] ship AK  buy  AK-CS-PIPE #1208 edge +0.288 pipe $40,000 arrives t540
+[P2 t510] buy>AK    CL-AK   +10  bid 93.49 ask 93.51
+[P2 t510] ship AK  buy  AK-CS-PIPE #1209 edge +0.288 pipe $40,000 arrives t540
+[P2 t511] sell CL   CL      -20  bid 97.86 ask 97.88
+[P2 t511] buy>AK    CL-AK   +10  bid 93.51 ask 93.53
+[P2 t511] ship AK  buy  AK-CS-PIPE #1210 edge +0.278 pipe $40,000 arrives t541
+[P2 t511] buy>AK    CL-AK   +10  bid 93.51 ask 93.53
+[P2 t511] ship AK  buy  AK-CS-PIPE #1211 edge +0.278 pipe $40,000 arrives t541
+[P2 t518] ship NYC fwd  CS-NYC-PIPE #1212 edge +0.003 pipe $20,000 arrives t548
+[P2 t518] ship NYC fwd  CS-NYC-PIPE #1213 edge +0.003 pipe $20,000 arrives t548
+[P2 t518] hedge     CL-2F   -20  bid 98.28 ask 98.30
+[P2 t518] buy>AK    CL-AK   +10  bid 93.71 ask 93.73
+[P2 t518] ship AK  buy  AK-CS-PIPE #1214 edge +0.248 pipe $40,000 arrives t548
+[P2 t518] buy>AK    CL-AK   +10  bid 93.71 ask 93.73
+[P2 t518] ship AK  buy  AK-CS-PIPE #1215 edge +0.248 pipe $40,000 arrives t548
+[P2 t535] release  CL-STORAGE #1181 storage
+[P2 t535] release  CL-STORAGE #1182 storage
+[P2 t535] release  NYC-STORAGE #1183 storage
+[P2 t535] release  NYC-STORAGE #1184 storage
+[P2 t535] release  NYC-STORAGE #1202 storage
+[P2 t535] release  NYC-STORAGE #1203 storage
+[P2 t538] sell CL   CL      -20  bid 98.00 ask 98.02
+[P2 t538] buy>AK    CL-AK   +10  bid 93.71 ask 93.73
+[P2 t538] ship AK  buy  AK-CS-PIPE #1218 edge +0.218 pipe $40,000 arrives t568
+[P2 t538] buy>AK    CL-AK   +10  bid 93.71 ask 93.73
+[P2 t538] ship AK  buy  AK-CS-PIPE #1219 edge +0.218 pipe $40,000 arrives t568
+[P2 t539] sell CL   CL      -20  bid 98.05 ask 98.07
+[P2 t539] buy>AK    CL-AK   +10  bid 93.79 ask 93.81
+[P2 t539] ship AK  buy  AK-CS-PIPE #1220 edge +0.188 pipe $40,000 arrives t569
+[P2 t539] buy>AK    CL-AK   +10  bid 93.79 ask 93.81
+[P2 t539] ship AK  buy  AK-CS-PIPE #1221 edge +0.188 pipe $40,000 arrives t569
+[P2 t540] EIA week 8 move +1.80 -> CRUDE net +100 until t570
+[P2 t540] sell CL   CL      -20  bid 98.13 ask 98.15
+[P2 t540] EIA       CL-2F  +100  bid 98.39 ask 98.41
+[P2 t540] buy>AK    CL-AK   +10  bid 93.88 ask 93.90
+[P2 t540] ship AK  buy  AK-CS-PIPE #1222 edge +0.178 pipe $40,000 arrives t570
+[P2 t540] buy>AK    CL-AK   +10  bid 93.88 ask 93.90
+[P2 t540] ship AK  buy  AK-CS-PIPE #1223 edge +0.178 pipe $40,000 arrives t570
+[P2 t541] sell CL   CL      -20  bid 98.16 ask 98.18
+[P2 t541] buy>AK    CL-AK   +10  bid 93.91 ask 93.93
+[P2 t541] ship AK  buy  AK-CS-PIPE #1225 edge +0.178 pipe $40,000 arrives t571
+[P2 t541] buy>AK    CL-AK   +10  bid 93.91 ask 93.93
+[P2 t541] ship AK  buy  AK-CS-PIPE #1226 edge +0.178 pipe $40,000 arrives t571
+[P2 t548] sell NYC  CL-NYC  -20  bid 100.57 ask 100.59
+[P2 t548] sell CL   CL      -20  bid 98.64 ask 98.66
+[P2 t548] EIA       CL-2F   +20  bid 98.84 ask 98.86
+[P2 t548] buy>AK    CL-AK   +10  bid 94.29 ask 94.31
+[P2 t548] ship AK  buy  AK-CS-PIPE #1229 edge +0.278 pipe $40,000 arrives t578
+[P2 t548] buy>AK    CL-AK   +10  bid 94.29 ask 94.31
+[P2 t548] ship AK  buy  AK-CS-PIPE #1230 edge +0.278 pipe $40,000 arrives t578
+[P2 t565] release  CL-STORAGE #1200 storage
+[P2 t565] release  CL-STORAGE #1201 storage
+[P2 t568] sell CL   CL      -20  bid 99.63 ask 99.65
+[P2 t568] EIA       CL-2F   +20  bid 99.82 ask 99.84
+[P2 t569] sell CL   CL      -20  bid 99.71 ask 99.73
+[P2 t569] EIA       CL-2F   +20  bid 99.93 ask 99.95
+[P2 t570] sell CL   CL      -20  bid 99.67 ask 99.69
+[P2 t570] hedge     CL-2F   -80  bid 99.83 ask 99.85
+[P2 t571] sell CL   CL      -20  bid 99.66 ask 99.68
+[P2 t571] hedge     CL-2F   +20  bid 99.80 ask 99.82
+[P2 t574] release  NYC-STORAGE #1227 storage
+[P2 t574] release  NYC-STORAGE #1228 storage
+[P2 t576] release  AK-STORAGE #1103 storage
+[P2 t578] sell CL   CL      -20  bid 99.83 ask 99.85
+[P2 t578] hedge     CL-2F   +20  bid 100.00 ask 100.02
+[P2 t595] release  CL-STORAGE #1216 storage
+[P2 t595] release  CL-STORAGE #1217 storage
+[P2 t595] release  CL-STORAGE #1231 storage
+[P2 t595] release  CL-STORAGE #1232 storage
